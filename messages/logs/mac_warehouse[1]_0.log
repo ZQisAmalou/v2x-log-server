@@ -1,0 +1,22 @@
+=== Veins V2X MAC Layer Log ===
+Node: warehouse[1]
+Start Time: 0.000000
+QCA Security: Enabled
+CA System: Disabled
+================================
+[0.000000] [INFO] [INIT] Node initialized - MAC:216 QCA:ON CA:OFF
+
+=== Final Statistics ===
+Simulation Duration: 0 seconds
+Total Messages Processed: 0
+Total Security Checks: 0
+QCA Checks: 0
+CA Checks: 0
+QCA Verification Success: 0
+QCA Verification Failed: 0
+CA Verification Success: 0
+CA Verification Failed: 0
+CA Certificate Requests: 0
+CA Certificates Issued: 0
+========================
+=== Log End at 0.754926 ===

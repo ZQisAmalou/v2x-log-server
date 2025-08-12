@@ -1,0 +1,98 @@
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:05:22
+Node ID: ship[1]
+Signed Data (first 50 bytes): -178-7-2111
+Signature: QCA-SIG-ship[1]-f95ed1481976cdff
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:05:26
+Node ID: ship[1]
+Signature: QCA-SIG-ship[1]-f95ed1481976cdff
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:26:14
+Node ID: ship[1]
+Signed Data (first 50 bytes): -178-7-2111
+Signature: QCA-SIG-ship[1]-f95ed1481976cdff
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:26:18
+Node ID: ship[1]
+Signature: QCA-SIG-ship[1]-f95ed1481976cdff
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:34:24
+Node ID: ship[1]
+Signed Data (first 50 bytes): -178-7-2111
+Signature: QCA-SIG-ship[1]-f95ed1481976cdff
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:34:27
+Node ID: ship[1]
+Signature: QCA-SIG-ship[1]-f95ed1481976cdff
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:49:36
+Node ID: ship[1]
+Signed Data (first 50 bytes): -178-7-2111
+Signature: QCA-SIG-ship[1]-f95ed1481976cdff
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:49:39
+Node ID: ship[1]
+Signature: QCA-SIG-ship[1]-f95ed1481976cdff
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 20:33:09
+Node ID: ship[1]
+Signed Data (first 50 bytes): -178-7-2111
+Signature: QCA-SIG-ship[1]-f95ed1481976cdff
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 20:33:12
+Node ID: ship[1]
+Signature: QCA-SIG-ship[1]-f95ed1481976cdff
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 20:37:37
+Node ID: ship[1]
+Signed Data (first 50 bytes): -178-7-5459
+Signature: QCA-SIG-ship[1]-66e4f45b4b2e3f5c
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 20:37:41
+Node ID: ship[1]
+Signature: QCA-SIG-ship[1]-66e4f45b4b2e3f5c
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 21:16:45
+Node ID: ship[1]
+Signed Data (first 50 bytes): -178-7-2094
+Signature: QCA-SIG-ship[1]-36c656e4faa5f7d9
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 21:16:49
+Node ID: ship[1]
+Signature: QCA-SIG-ship[1]-36c656e4faa5f7d9
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+

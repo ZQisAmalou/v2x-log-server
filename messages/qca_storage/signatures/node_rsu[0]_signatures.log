@@ -1,0 +1,133 @@
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:05:03
+Node ID: rsu[0]
+Signed Data (first 50 bytes): -178-7-1916
+Signature: QCA-SIG-rsu[0]-05ed00b7eab78d56
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:05:06
+Node ID: rsu[0]
+Signature: QCA-SIG-rsu[0]-05ed00b7eab78d56
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:15:38
+Node ID: rsu[0]
+Signed Data (first 50 bytes): -178-7-1916
+Signature: QCA-SIG-rsu[0]-05ed00b7eab78d56
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:15:41
+Node ID: rsu[0]
+Signature: QCA-SIG-rsu[0]-05ed00b7eab78d56
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:25:55
+Node ID: rsu[0]
+Signed Data (first 50 bytes): -178-7-1916
+Signature: QCA-SIG-rsu[0]-05ed00b7eab78d56
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:25:59
+Node ID: rsu[0]
+Signature: QCA-SIG-rsu[0]-05ed00b7eab78d56
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:34:04
+Node ID: rsu[0]
+Signed Data (first 50 bytes): -178-7-1916
+Signature: QCA-SIG-rsu[0]-05ed00b7eab78d56
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:34:07
+Node ID: rsu[0]
+Signature: QCA-SIG-rsu[0]-05ed00b7eab78d56
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:49:10
+Node ID: rsu[0]
+Signed Data (first 50 bytes): -178-7-1916
+Signature: QCA-SIG-rsu[0]-05ed00b7eab78d56
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:49:14
+Node ID: rsu[0]
+Signature: QCA-SIG-rsu[0]-05ed00b7eab78d56
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 20:32:51
+Node ID: rsu[0]
+Signed Data (first 50 bytes): -178-7-1916
+Signature: QCA-SIG-rsu[0]-05ed00b7eab78d56
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 20:32:54
+Node ID: rsu[0]
+Signature: QCA-SIG-rsu[0]-05ed00b7eab78d56
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 20:35:08
+Node ID: rsu[0]
+Signed Data (first 50 bytes): -178-7-3641
+Signature: QCA-SIG-rsu[0]-8221bb2097428e57
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 20:35:11
+Node ID: rsu[0]
+Signature: QCA-SIG-rsu[0]-8221bb2097428e57
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 20:37:18
+Node ID: rsu[0]
+Signed Data (first 50 bytes): -178-7-5277
+Signature: QCA-SIG-rsu[0]-d8f7f995c734c88b
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 20:37:21
+Node ID: rsu[0]
+Signature: QCA-SIG-rsu[0]-d8f7f995c734c88b
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 21:16:16
+Node ID: rsu[0]
+Signed Data (first 50 bytes): -178-7-1916
+Signature: QCA-SIG-rsu[0]-05ed00b7eab78d56
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 21:16:20
+Node ID: rsu[0]
+Signature: QCA-SIG-rsu[0]-05ed00b7eab78d56
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-11 11:03:12
+Node ID: rsu[0]
+Signed Data (first 50 bytes): -178-7-1959
+Signature: QCA-SIG-rsu[0]-c2b84806304342c7
+-----END SIGNATURE RECORD-----
+

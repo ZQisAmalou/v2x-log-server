@@ -1,0 +1,21 @@
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-11 11:02:19
+Node ID: vehicle[2]
+Signed Data (first 50 bytes): -178-7-1351
+Signature: QCA-SIG-vehicle[2]-eccbc8d42dd69983
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-11 11:02:23
+Node ID: vehicle[2]
+Signature: QCA-SIG-vehicle[2]-eccbc8d42dd69983
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-11 11:02:23
+Node ID: vehicle[2]
+Signature: QCA-SIG-vehicle[2]-eccbc8d42dd69983
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+

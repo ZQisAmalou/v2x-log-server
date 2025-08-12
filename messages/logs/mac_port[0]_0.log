@@ -1,0 +1,32 @@
+=== Veins V2X MAC Layer Log ===
+Node: port[0]
+Start Time: 0.000000
+QCA Security: Enabled
+CA System: Enabled
+================================
+[0.000000] [INFO] [INIT] Node initialized - MAC:231 QCA:ON CA:ON
+[0.040087] [INFO] [MESSAGE] BROADCAST_RX from 181 - Received broadcast message from 181
+[0.040087] [INFO] [MESSAGE] SECURITY_CHECK from 181 - Security check - Node QCA:ON CA:ON, Message QCA:YES CA:NO
+[0.040087] [INFO] [SECURITY] QCA_VERIFY - SUCCESS - QCA verification SUCCESS for message from 181
+[0.040087] [WARN] [SECURITY] CA_VERIFY - FAILED - CA verification FAILED - Node expects CA but message has no CA header from 181
+[0.040087] [INFO] [MESSAGE] BROADCAST_DROP from 181 - Security verification failed - QCA: PASS, CA: FAIL
+[0.565728] [INFO] [MESSAGE] BROADCAST_RX from 196 - Received broadcast message from 196
+[0.565728] [INFO] [MESSAGE] SECURITY_CHECK from 196 - Security check - Node QCA:ON CA:ON, Message QCA:NO CA:YES
+[0.565728] [WARN] [SECURITY] QCA_VERIFY - FAILED - QCA verification FAILED - Node expects QCA but message has no QCA header from 196
+[0.565728] [INFO] [SECURITY] CA_VERIFY - SUCCESS - CA verification SUCCESS for message from 196
+[0.565728] [INFO] [MESSAGE] BROADCAST_DROP from 196 - Security verification failed - QCA: FAIL, CA: PASS
+
+=== Final Statistics ===
+Simulation Duration: 0 seconds
+Total Messages Processed: 2
+Total Security Checks: 2
+QCA Checks: 2
+CA Checks: 2
+QCA Verification Success: 0
+QCA Verification Failed: 0
+CA Verification Success: 1
+CA Verification Failed: 0
+CA Certificate Requests: 0
+CA Certificates Issued: 1
+========================
+=== Log End at 0.754926 ===

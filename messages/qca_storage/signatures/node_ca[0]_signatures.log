@@ -1,0 +1,406 @@
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 17:29:23
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-1353
+Signature: QCA-SIG-ca[0]-1ba770e137eef6a5
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 17:29:26
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-1ba770e137eef6a5
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:03:23
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-777
+Signature: QCA-SIG-ca[0]-3840b8dccfbdb17a
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:03:27
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-3840b8dccfbdb17a
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:04:42
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-1683
+Signature: QCA-SIG-ca[0]-3ee5451bd9724b41
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:04:46
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-3ee5451bd9724b41
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:05:48
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-2410
+Signature: QCA-SIG-ca[0]-a2ce9e2c362b0fe9
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:05:51
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-a2ce9e2c362b0fe9
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:14:00
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-777
+Signature: QCA-SIG-ca[0]-3840b8dccfbdb17a
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:14:04
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-3840b8dccfbdb17a
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:15:17
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-1683
+Signature: QCA-SIG-ca[0]-3ee5451bd9724b41
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:15:21
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-3ee5451bd9724b41
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:24:17
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-777
+Signature: QCA-SIG-ca[0]-3840b8dccfbdb17a
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:24:20
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-3840b8dccfbdb17a
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:25:37
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-1683
+Signature: QCA-SIG-ca[0]-3ee5451bd9724b41
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:25:40
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-3ee5451bd9724b41
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:26:38
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-2410
+Signature: QCA-SIG-ca[0]-a2ce9e2c362b0fe9
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:26:41
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-a2ce9e2c362b0fe9
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:32:14
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-777
+Signature: QCA-SIG-ca[0]-3840b8dccfbdb17a
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:32:18
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-3840b8dccfbdb17a
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:33:44
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-1683
+Signature: QCA-SIG-ca[0]-3ee5451bd9724b41
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:33:47
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-3ee5451bd9724b41
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:34:54
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-2410
+Signature: QCA-SIG-ca[0]-a2ce9e2c362b0fe9
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:34:57
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-a2ce9e2c362b0fe9
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:35:59
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-3214
+Signature: QCA-SIG-ca[0]-4565fb8fea06c45d
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:36:02
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-4565fb8fea06c45d
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:46:47
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-777
+Signature: QCA-SIG-ca[0]-3840b8dccfbdb17a
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:46:51
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-3840b8dccfbdb17a
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:48:37
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-1683
+Signature: QCA-SIG-ca[0]-3ee5451bd9724b41
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:48:41
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-3ee5451bd9724b41
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:50:04
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-2410
+Signature: QCA-SIG-ca[0]-a2ce9e2c362b0fe9
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 19:50:08
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-a2ce9e2c362b0fe9
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 20:00:46
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-777
+Signature: QCA-SIG-ca[0]-3840b8dccfbdb17a
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 20:00:50
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-3840b8dccfbdb17a
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 20:31:25
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-777
+Signature: QCA-SIG-ca[0]-3840b8dccfbdb17a
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 20:31:28
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-3840b8dccfbdb17a
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 20:32:34
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-1683
+Signature: QCA-SIG-ca[0]-3ee5451bd9724b41
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 20:32:38
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-3ee5451bd9724b41
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 20:33:30
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-2410
+Signature: QCA-SIG-ca[0]-a2ce9e2c362b0fe9
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 20:33:34
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-a2ce9e2c362b0fe9
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 20:34:34
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-3214
+Signature: QCA-SIG-ca[0]-4565fb8fea06c45d
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 20:34:38
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-4565fb8fea06c45d
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 20:35:54
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-4184
+Signature: QCA-SIG-ca[0]-6fb6a76b371812b0
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 20:35:58
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-6fb6a76b371812b0
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 20:36:56
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-4993
+Signature: QCA-SIG-ca[0]-84eeff7faa69e7d3
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 20:37:00
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-84eeff7faa69e7d3
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 20:38:01
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-5758
+Signature: QCA-SIG-ca[0]-73415280639bd456
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 20:38:05
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-73415280639bd456
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 20:58:11
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-777
+Signature: QCA-SIG-ca[0]-3840b8dccfbdb17a
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 20:58:15
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-3840b8dccfbdb17a
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 21:13:35
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-777
+Signature: QCA-SIG-ca[0]-3840b8dccfbdb17a
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 21:13:39
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-3840b8dccfbdb17a
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 21:15:41
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-1683
+Signature: QCA-SIG-ca[0]-3ee5451bd9724b41
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 21:15:45
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-3ee5451bd9724b41
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 21:17:27
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-2385
+Signature: QCA-SIG-ca[0]-b1ec853aec940d59
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 21:17:31
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-b1ec853aec940d59
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-11 11:02:41
+Node ID: ca[0]
+Signed Data (first 50 bytes): -178-7-1601
+Signature: QCA-SIG-ca[0]-abac8441628d1ef5
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-11 11:02:45
+Node ID: ca[0]
+Signature: QCA-SIG-ca[0]-abac8441628d1ef5
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+

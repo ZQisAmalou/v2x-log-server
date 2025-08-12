@@ -1,0 +1,146 @@
+=== Communication Messages for ship[0] ===
+
+Timestamp: 1749629420
+Sender: ship[0]
+Receiver: ship[1]
+Encryption: ChaCha20
+Plaintext: Maritime Navigation Data from ship[0]: Current position 38°N 78°W, heading 45° true, speed over ground 12 knots, vessel identification: IMO 1234567, call sign: W100A, cargo manifest: 150 containers, gross tonnage 5000 tons, destination port: Baltimore Inner Harbor, ETA: 2024-01-15 08:30 UTC, weather routing: avoiding storm system 200nm northeast, sea state: moderate 2-3m waves, fuel consumption rate: 25 tons/day, remaining fuel: 300 tons.
+Ciphertext: 0508271005190a3649170f1757333a390c4c1000194135457b0521453250270701392e690c6a67303c0b3c2470005b1d2a703774146f0f24487bb1ba31704377ca994215115842724d7040465e202ecf95434a1268052d446853760f7b107b594d7b157e637f725d6d193f337e5f5542713032604b2552375e6f13235b755a7ba18fbc9a90848ebc87e3cea8f39bfbfcd790ca95eb97ed84b882bfc6ff83bd8886f3d58ee0e0f7b2e5d9ada0ec9394cda8e2b0e99be592f0c1e3c2bfcff097a0e6ddf4d0dfd5d5e085b9c9d391e7e8add18cd08efc87e4c4ae93a3dabfc4fbc1dba595fdf4e3f3dae7d8fae8b1da9bddeab1eafa9d82c0a8cfeadea5cdf594c62607300b513806210b361c4d1e110f0c5f034c106f146c146a4e621f7f406c555b79550c05136b533e1c2f357611094d376c2b74146e063e5b22056516341d216f09664d5e424a335a605d551b793b3f1553500d3d0e6e166f4b760b6c44380f5b6c5439626466476c032e6c31505e5f64377b600f6d12291b74523c5a63182fae9cb095d19388bd9aac8391cabdb4a3c5d19fd4b89ae196eec3a7c5b183fb8b89b0d9f9a3b5aa92a097a7aff9d49d98a0efe4a0ceb0d1a48fac9df9d1
+Signature: f1f3144d1b28fab
+----------------------------------------
+Timestamp: 1749629420
+Sender: ship[0]
+Receiver: ship[2]
+Encryption: ChaCha20
+Plaintext: Maritime Navigation Data from ship[0]: Current position 38°N 79°W, heading 45° true, speed over ground 12 knots, vessel identification: IMO 1234567, call sign: W100A, cargo manifest: 150 containers, gross tonnage 5000 tons, destination port: Baltimore Inner Harbor, ETA: 2024-01-15 08:30 UTC, weather routing: avoiding storm system 200nm northeast, sea state: moderate 2-3m waves, fuel consumption rate: 25 tons/day, remaining fuel: 300 tons.
+Ciphertext: 260d4753045438141129320d021d5e363f0a325a141d50140c142a062b5e342f223c4e2a0d2755126435013e252e3f121936152e19336a753f6abaf9287e505ee99c225610157050154e7d5c0b0e4ac0a6056848655948151f427d4c621e68716e7e753d6232407f352702292b71314d4276103a46793766297e1860427b4953828adcd991c9bc9edfddf3b2a6b59ff3e4d6e8cfe6cb88d5cf93b485e68daea0a5f6b5cde1adc590bde790bab9bdf0c29ba492b396b9f7a1b6f2c9fcd6fe8488c5d89493de98e7c2dd87f4c9c4c98ca2e2caf2d4f1db8195d982a899a6cae8e9f8a0f5bef5aec1f8bfe6c7f2e4f4ffd2d9f7c8a090dea5f9b8fbd5e6d4fb87ee0502504850753403530821574b3f6b036c456e4a624809451d5f695c664e7f7d787c354f045e59716622122f233f6d42042a092e1932636f2c330e260f3a0e094c0c060e5f0f7811025e604f4e575f302615725730520b47185a7d48754a2b277869347a63295465343d1376647e3a505771593a023177786c65597f436d0b078d99d0d6d0deba9fc292be8b9f93d0acf697bd8eb5c684c799d2ac86a88de8a3aab5b9baa2f898b0f8a99ab5acfaf99793a9c6fac3ecb4f5f8bd96bac8
+Signature: e459f55d3af44bb2
+----------------------------------------
+Timestamp: 1749629420
+Sender: ship[0]
+Receiver: ship[3]
+Encryption: ChaCha20
+Plaintext: Maritime Navigation Data from ship[0]: Current position 38°N 80°W, heading 45° true, speed over ground 12 knots, vessel identification: IMO 1234567, call sign: W100A, cargo manifest: 150 containers, gross tonnage 5000 tons, destination port: Baltimore Inner Harbor, ETA: 2024-01-15 08:30 UTC, weather routing: avoiding storm system 200nm northeast, sea state: moderate 2-3m waves, fuel consumption rate: 25 tons/day, remaining fuel: 300 tons.
+Ciphertext: 2a32183a1755290672060407285e0b3c4136135a0519211e0e313f1e1e4b35122e0311431e264400071a37340f6d6a18670a342e08371b7f3d4fafe11d6b5e6ae5a37d3f0314614276614b56214d1fcad8394948745d391f1d676854570b694c62412a547133516d56083423013264473c4a313a577d466c2b5b0d78776e486e8eb583b082c8ad8cbcf2c5b88cf6caf99aeac9cff7cff9dfcdb6a19dd398af9da9c9eaa4f2acd482dec8a6b093fea5c8e598b3b387bd86abb4d7dce4e3eb85b5c9e7cbfacd99f6d0bea8c2c3ee8ad9a89cf6d3d4e0dff09fdba7bd8193dfe9d4f49faad7e6afd0eadcc9f1f8ceb7aad8a7cbe9a081dad4f3badec0fee1ee86d3093d0f21437425113027175d617c3e0912794f4a734c784f1f7a7c44535b7e4074436a26175f4863050d2425097c38487a16282e083612652e161b3e3a2f0f34403359674c0e69036171564564140a3a5829535721567a4d1a7f6850405f2a1a74566b13702845775712257c4e3d6f5a294d783a133506726e404c6776780a3a81a68fbfc3dfab8da1bd8881b5d085a688ab9c8ea4c2f5cd9bf7b99e9d98e99ea68ae6d3b1f989a29b86acbf86b9ac9ded95e7fad2e8c5fffa9883a2fd
+Signature: dc48a80f2e516e0
+----------------------------------------
+Timestamp: 1749629420
+Sender: ship[0]
+Receiver: ship[4]
+Encryption: ChaCha20
+Plaintext: Maritime Navigation Data from ship[0]: Current position 38°N 81°W, heading 45° true, speed over ground 12 knots, vessel identification: IMO 1234567, call sign: W100A, cargo manifest: 150 containers, gross tonnage 5000 tons, destination port: Baltimore Inner Harbor, ETA: 2024-01-15 08:30 UTC, weather routing: avoiding storm system 200nm northeast, sea state: moderate 2-3m waves, fuel consumption rate: 25 tons/day, remaining fuel: 300 tons.
+Ciphertext: 21511638393b31015b751f1029295631340a2b643513173374171844387e292725601f4130485c072e692c230e1a371512360c10383d2d52476988bb3b5e425eeec0733d2d7a79455f125041203a42c7ad05717644570f3267414f0e713e7579692224565f5d496a7f7b2f340045394a4976090467777041517d2a22515b545b85d68db2aca6b58b9581deaf8d8197f4efd6f1f1c7c5cff2b79086c7f5adb3a8a2aae4a6dcc2cc85f7bbbda79289f8c590a48b8db7b7b086cef1fbbec5de9980c284c5f8e3f7eed797dbd9d4effd84a5e9caebead0d5c6b2a1819adbb5eaf5e1fffca4d5c8c1c8edf5baeaefcfc0f7d5d2f7d19eb1d0e2dec0f8e7a4c7db9ae6025e01236d1a3d1619540c4a600b63046745777443464e62655c5b1e756e62757f206424393150642c7e3f32080b65450f2a1010383c244854303c641c1a13014b5057656260710448024d52656357372d156b69115c4c6060594f0a666a362f7f3565115e465d707e613e6b4f4a32575c714004233f305f14666b3d504d160f8ac581bdedb1b38a88ce9396b4a7d8abfd97a4b094c8c3e0e1d19ec4bbadf5abade9e8d19f9791a5b2f5b7a887cef19098a9dfc4e2e2f3d280bea4f8db
+Signature: a6247a407889c4af
+----------------------------------------
+Timestamp: 1749629420
+Sender: ship[0]
+Receiver: ship[5]
+Encryption: ChaCha20
+Plaintext: Maritime Navigation Data from ship[0]: Current position 38°N 82°W, heading 45° true, speed over ground 12 knots, vessel identification: IMO 1234567, call sign: W100A, cargo manifest: 150 containers, gross tonnage 5000 tons, destination port: Baltimore Inner Harbor, ETA: 2024-01-15 08:30 UTC, weather routing: avoiding storm system 200nm northeast, sea state: moderate 2-3m waves, fuel consumption rate: 25 tons/day, remaining fuel: 300 tons.
+Ciphertext: 1b021a0e0658025443233c4f0106071d0e1d127d6122281e0d1238062956041c1f3313770f2b6f52363f0f7c26356639282135096c0c127f3e6ca8f92a766f66d4937f0b12194a104744731e081513eb9712486f1066301f1e446f4c6016584253712860603e7a3f672d0c6b286a68667361301d33464f6c28780a6040737960bf85818493c586de8dd7fdf0a5aec6d8d5c1c8e893f4f0dfce95a685e4859e9398f9e890e3a1ffd0efed9ef8baa6a9e9aab3b294e3868fabb7f4dbfcd4f6b4bbf8d7c9cedc94dd828f8dfa8bc7d2d589d3ddd2f384e4f99fd884ba99a4c2d8dac5afa8e3f7a2fbb8edecc9b0e7efa6f9e8e0e887e5e1ddf3b9fdc7e6d6f3b7dd380d0d1552790e4301022f15482432285d524e6d1777714f1c597b5c64464f4e457368120652633134281c6d20243469353d29096c0d1b652d351c260d323e3a71035b535d03425150546e0d4d4c061b17025270456d734d195c6f4877421b144566692761256e2566371d346765637b6666791d770e0f726d634b7f41653b34b0968d8bd2d280df9098b0c99c888987c7809da9c0f9fccd98d4be86aa85d89097bae4e7a0f4a2f0aaa394f7afe1a0bca2bee6ddb6d3ccfff9bb84baca
+Signature: 268e659ef823db71
+----------------------------------------
+Timestamp: 1749629420
+Sender: ship[0]
+Receiver: ship[6]
+Encryption: ChaCha20
+Plaintext: Maritime Navigation Data from ship[0]: Current position 38°N 83°W, heading 45° true, speed over ground 12 knots, vessel identification: IMO 1234567, call sign: W100A, cargo manifest: 150 containers, gross tonnage 5000 tons, destination port: Baltimore Inner Harbor, ETA: 2024-01-15 08:30 UTC, weather routing: avoiding storm system 200nm northeast, sea state: moderate 2-3m waves, fuel consumption rate: 25 tons/day, remaining fuel: 300 tons.
+Ciphertext: 2e5600282a1c13006e105231303e2e111f46445f33432b254d2e2f4c070e5d012a670951236f7e061b0c6102170d4f35397a632b3e6d11447e50bfb3042e367ae1c7652d3e5d5b446a771d60392d3ae786491e4d420733245e7878064e4e015f662532464c7a6b6b4a1e62151952416a623a663f61274c5768441d2a6e2b207d8ad19ba2bf81978aa0e4938e9496efd4c49a9ecac195f3e48ea9b1cfcaddc78eadadf2b6cfe5ee84c2def0868b9e80e5bbe8e4b6b1e78c90f7c8ccb6faaeeda6cd83d3e8f0d0ccd6a2be94f5f6eafc85c28684d1d685faa498b8add38a9a81c7f0fbb2c5dbe6eaecc0dfa7ced6d78ff5f9bbbea5b780dec8f9c1d0acf8abeec00d5917337e3d1f172c31416b791c1b244c09184f451672745c656c164a1e1653702772342a167265191b7213111c1d6524667f2b3e6c185e6d090b6c236a672744574175714753057d6700737c742f1706590452170c707659607802591a4209703273014d617f714b04734a565d4a77773d2f3f256f0c492d5f5c356f3d622985c297adfe96918bbdabdeb7adb0a08bd6dbcb8b9298fff6d8e8a9cc84dd818da2eefec18cb0b3a48790fa899ed989b0b3e5b0ffe4b2cfc4b98793f0e4
+Signature: d0e1d67d3a3a388
+----------------------------------------
+Timestamp: 1749629420
+Sender: ship[0]
+Receiver: ship[7]
+Encryption: ChaCha20
+Plaintext: Maritime Navigation Data from ship[0]: Current position 38°N 84°W, heading 45° true, speed over ground 12 knots, vessel identification: IMO 1234567, call sign: W100A, cargo manifest: 150 containers, gross tonnage 5000 tons, destination port: Baltimore Inner Harbor, ETA: 2024-01-15 08:30 UTC, weather routing: avoiding storm system 200nm northeast, sea state: moderate 2-3m waves, fuel consumption rate: 25 tons/day, remaining fuel: 300 tons.
+Ciphertext: 1a53313d225a252d4932592a36050c1d213212463a35532f5c382d22414b25031e6238442b29482b3c2e6a1911366d39070e3532371b694e6f46bddd426b4e7fd5c25438361b6d694d55167b3f1618ebb83d48544b714b2e4f6e7a68080b795d52200353443c5d466d3c690e1f6963665c4e30266851345d79521f44286e587fbed4aab7b7c7a1a787c6989592adcdd8faeec8d3c8e38bee9fbfb3a18c98bf8c99a8c3a3c7a3d8a9e5fcfb9d8da5a2e9859cb2afb891f49ae6deced8bceb95a4f986e2fdf896fafb859c9feef0d1de89fcf2d2c8dff382ae89aeafbdccdff9c5c4fe83d0d3a0dcc1e7fdacd5d0ecadf9c7cfe8bcbef6a6c2e8d7d2c2beee96c2395c2626767b293a0b134a707f273928727d4e564c600a7e4d736e780c5b6e5144224321225044483e39790817273f691a122932371a60547c1f0902652f1f2570527060790165285a450b687a4f0d1b382d524b1e7a087c48767a6c1f5f3a0b443742144527495c6c2678515066687b494979262c1974433c495e5b29781a2bb1c7a6b8f6d0a7a69a89d5acab8b8287e8af9d929bee87fcc9feaba2c298f98f96ebcfd484f68589a0b2f19298e2abbc8d91e6e6edc4b7cea891919ea2
+Signature: af8bf29871264c77
+----------------------------------------
+Timestamp: 1749629420
+Sender: ship[0]
+Receiver: port[0]
+Encryption: AES
+Plaintext: Port Arrival Request from ship[0]: Vessel name MV Cargo Express 1, requesting berth assignment at Terminal 1, estimated arrival 6 hours, cargo type: mixed containerized goods, 80 TEU capacity, special handling requirements: 5 refrigerated containers (-18°C), 3 hazardous material containers (Class 3 flammable), crew information: 15 crew members, health certificates valid, vessel dimensions: LOA 180m, beam 25m, draft 8m, pilotage required: yes, tugboat assistance needed for docking, customs documentation: all paperwork submitted electronically, inspection requested.
+Ciphertext: 04193e0e081b121219391f44185d7f5651634f9e988ca29f8dfffdb0c1eff1a7e9ac8cccad0933253c4f7029350a1a4a52065f6b2a6d5ff08587de8aad8cb9d7a59aacc88debd5c5c3fb57061f6f38021632140a195963594771237d86abcab680f6b8bffad7e9eef1c3feb9b48f1f34300f312b6c2f1430614d1c517e5e6617e2d6a495dda893ccd0ac9fdadfe0bad3ddf6d95018073908053b2e3b47715e765d7849682180a5a4f088f1a7bc9c96a7bc96bcde9ddf9033210f4f1b210b335b34457c5f0b73414c1067df869ca3b38983e68ecf89dff9c2c5f2abf61c2c507741761e3f6e486967755d3f7c7d4bdaa4ab88a8abf1a495e2f39fc695b9874807175f605a1b7a08010a2e0c4c577a69074967488fca83b19cc0bce1b6dcfec3f9d1e4dfbae0392c21231c3e7b78095666694b7d68346f19fce09cdc9dbfdfa399f2d9fed789eec9cfdeb51e594d6f391501315c471d477255526c623880ba8bbb80beccb9edc8f4e9f6c6bde9ecca0967320730237c665066654c1d5d641f6e5eb993a289c1b58e93caefb2e7f9afab9f94eb904a5a0f311d406d3b35043f4e655570583a7097ece0a086f2a7ac8edde2a4d4f9fbade3c23524450e012d0c665760436b58077b5400517ccd818bbbbb8987a3dcc49dcff4d5c4bfa8f71a7f0e38173d05346f162063655c2a67755cdaa3ab85a9a7fda484f1f4d681d6b29febdb38563c1b583f12171f3d15084b7a784a4d72488fdccab59c85bcfaaac7f1c3f4d5fac0e3e45a292e231f7b2b2c0655692454797b2d6f43a4a59b80
+Signature: 4258ed4da88303b
+----------------------------------------
+Timestamp: 1749629420
+Sender: ship[0]
+Receiver: port[1]
+Encryption: AES
+Plaintext: Port Arrival Request from ship[0]: Vessel name MV Cargo Express 1, requesting berth assignment at Terminal 2, estimated arrival 6 hours, cargo type: mixed containerized goods, 80 TEU capacity, special handling requirements: 5 refrigerated containers (-18°C), 3 hazardous material containers (Class 3 flammable), crew information: 15 crew members, health certificates valid, vessel dimensions: LOA 180m, beam 25m, draft 8m, pilotage required: yes, tugboat assistance needed for docking, customs documentation: all paperwork submitted electronically, inspection requested.
+Ciphertext: 265c2d304d531c11163e4677407f617973265ca0ddc4ac9c82f8a48399cdef88cbe99ff2e8413d263348291a6d28046570434c556f2551f38a8087b9f5aea7f887dfbff6c8a3dbc6ccfc0e35474d262d347707345c116d5a48767a4ede89d499a2b3ab81bf9fe7edfec4a789ecad011b124a221529671a336e4a4562267c7838c093b7ab98e09dcfdfabc6e987c2a4fcffb3ca6e5d4f370b0a3c77081f5340597f3d5a5664c8aba7ff8fa894e4be88889ed3afe0d8979e302e08162879292d7416006f614e3b4f4f1f6086b5c481ada6a1a39df1cc97f7c1caf5f2c5440e4e5863330d012b0067647a5a664f2569c48b89cdbb95b4ec9be1fc989fa6e1a55628351a73645e3206020529557f0f5877286b225bb18fcbbf9fcfbbb88584dcddd6f3a1cc84a57122222c1b6748202b48494b0e6e56712717ffef9b85aee7fdbdb6d09cede9cca6c7ccd1b2476a154d273a23744f79580f7c565d6b3b0bd8989594a2fbdf87a880faeaf9c1e4dab4e817481042231d392e5e656a4b446e3c3d70719bd6b1b784fd8090c5e8ebd4a18db5b0b6ae83741f473f1e4f6a62065c1d504a77354b0435dfe2e3af81ab94f4acc3cd8691eac5e8abcc362b425732752e78784206786642335a035e7b94b2d399a5a6a5e6cffad887fad6cbb8f1c4425d10173578160a2a5e2e606a5b73542d7ec48c89c0ba99b8ec8af2fbd1d8e5eabdf5f41a132f251d771c14103a4c3b135866656f375bb19982bb9f8abba3999fd3dddbf7bfd3dda112272d2c18221874244b4606116a4568274da7aa9cd9
+Signature: e5509fa63bfd2149
+----------------------------------------
+Timestamp: 1749629420
+Sender: ship[0]
+Receiver: port[2]
+Encryption: AES
+Plaintext: Port Arrival Request from ship[0]: Vessel name MV Cargo Express 1, requesting berth assignment at Terminal 3, estimated arrival 6 hours, cargo type: mixed containerized goods, 80 TEU capacity, special handling requirements: 5 refrigerated containers (-18°C), 3 hazardous material containers (Class 3 flammable), crew information: 15 crew members, health certificates valid, vessel dimensions: LOA 180m, beam 25m, draft 8m, pilotage required: yes, tugboat assistance needed for docking, customs documentation: all paperwork submitted electronically, inspection requested.
+Ciphertext: 28002519511a322f172a70132d3e324e7d7a5489c18d82a283ec92e7f48cbcbfc5b597dbf4081318325c1f7e006957527e1f447c736c7fcd8b94b1dd98eff4cf8983b7dfd4eaf5f8cde838512a0c751a3a2b0f1d4058436449624c2ab3c887aeacefa3a8a3d6c9d3ffd091ec81ec522c1c162a3c352e340d6f5e73064b3d2b0fcecfbf8284a9b3f1debff08dea83f7cbf1efc247410619350b28416c7212136e7161527f78818599fe9b9ef089ffdbbf908fa7c9c4deb00e2f1c204c14687e43185c6748527261711e74b0d1a9c0fe91afff95d8d0ded9ffcbe1c4a1294f1d6f6d6f05283749495a7b4e502b482897bc8791b3bca8a5b5dffd8ca9c28ce4051f3b467b4d427b283c043d631b6219241f657e5398938291a1ceaf8ee1e99d8ee1fdfdc4adb9380c1c2d0f512c4d6a1b7e4552667f6d6e39c1ee8fb3ca8abcee81dec0e5c0d0efe9f2d0a6710e780c740d2d284750444652685c7f0d6fb5d9c6a3aca7d7aeb4c9d4d4f8d5d2bed9a9447f1e1e2b342567705b6b5f720a517c2346958ab99e98b4aeaec4fcddb0cccce687b8f28b5d030e11204e7e5462315c037d7969432d2996ccddae959df099ed90fa88cde2ecf4e2e2082a566156186f2b4f4c5a704f5e7a743d5f6fa2d6bed8f691abbac7d3c4ced4e8caacc7a02f1c43203b241e233617005e6b4f4530403f97bb879cb2b0a4a5a4ccfac5ee8187fca6c3144f270c013e322a112e7a5f7e193552616b539885cb95a18baf95fdf2928eecf9e3dbf4bd5b09132d0c147c19651871084d626c746e6399ab88ef
+Signature: fb45f09f25e84e70
+----------------------------------------
+Timestamp: 1749629420
+Sender: ship[0]
+Receiver: port[3]
+Encryption: AES
+Plaintext: Port Arrival Request from ship[0]: Vessel name MV Cargo Express 1, requesting berth assignment at Terminal 4, estimated arrival 6 hours, cargo type: mixed containerized goods, 80 TEU capacity, special handling requirements: 5 refrigerated containers (-18°C), 3 hazardous material containers (Class 3 flammable), crew information: 15 crew members, health certificates valid, vessel dimensions: LOA 180m, beam 25m, draft 8m, pilotage required: yes, tugboat assistance needed for docking, customs documentation: all paperwork submitted electronically, inspection requested.
+Ciphertext: 120905524527342b027f4c6a39434f4c477374c2d5b084a696b9ae9ee0f1c1bdffbcb790e035151c2709230714142a5044166437675179c99ec18da48c9289cdb38a9794c0d7f3fcd8bd04283e71081800222f56546545605c377053a7b5faac96e683e3b7ebcfd7ea85ad9295912f2e261f0a77211332097a0b4f7f5f40560df4c69fc99094b5f5cbeaccf4fefe8ac9cbe6e20c553b1f311e7d7d15666f6e6c4b6872346cbc839debcea2899d82a6bdaa868782d0e3b60a3a491c350015034122554703464f67750b218ca8bdbd839395f6b593c4e3dffbdeb4f8d83d32606d5766256323744f5e6e1b6c525c55eabebd9893f7bc98b3dbe8d995bb9899781d014f5b0656462e3811685f627664591d5f7773d387bf97a5dbfab298fde0f3e3c7f4e4e6ad050a18385a6d555917667c7f5b463479533fc5fbda8fb39ec19383e4c9c58bc4d2eff6c5f34d776c71090f1721671b507b546c492a3116a1a4bba196aef7e5a0f4d2d0ed80eec7cdd4397d24170b7f315a765f7e0a4e7345015e44af8399d58c89a8aad1a9e1c9d8b19b8582fbab16173317245b2b681b25217e7f436063663dabcad9bbc0a1898d90edf8b2c4c2a7e0dfe40c3f035d2f0c12564d765350044a4772394a3a9eafaaa58b9391b3e798d0f3d2ecdff9fbd93b613e22012d3e68222a065a7e1a79495442eab9bd9592fbb098a2c8ef90d2f89381dbc12e4607471503342e047b46266a6448505b6273d391f693a59efaa984e6eff3eec3eafbbfa9660f17385928050d186573324442276053659dbeddd3
+Signature: 2e83056dc458eb9
+----------------------------------------
+Timestamp: 1749629420
+Sender: ship[1]
+Receiver: ship[0]
+Encryption: ChaCha20
+Plaintext: Maritime Navigation Data from ship[1]: Current position 39°N 77°W, heading 75° true, speed over ground 13 knots, vessel identification: IMO 1234568, call sign: W101A, cargo manifest: 170 containers, gross tonnage 5500 tons, destination port: Baltimore Inner Harbor, ETA: 2024-01-16 08:30 UTC, weather routing: avoiding storm system 200nm northeast, sea state: moderate 2-3m waves, fuel consumption rate: 27 tons/day, remaining fuel: 315 tons.
+Ciphertext: 1f3606190026291611242f3503232e012c39045769172c315713380c0905553e1b070f610955441064381c0624104f250a05232364391650646ca8f30a253141d0a7631c14676152154360640a333af7b5365e451853343044456f4640450960574534776640517d352a1f102a4f417a514526373b734b4372790a6a60202842bbb19d9395bbad9cdfd0ee8aa78befc4f7e5dec29bcef4f09494a68fc4d6cfb19ccdf487e5dfd592bdea8d82b88380f58897a4beebb38b84edf5dbf4f4a5e599fce3d5d9daeaf6c0dd8ae9f1c5f7fc95f1f9c4d98cd1fdb08280ba93849189f8c19bb4f4f1dcd0fabfebdacae5ca8fe5cac4feadedd4d9dce3fcc7ecf6a0e6ff3c3911025407250153053c6f4a011b347f7658471f42756046587b5544151e6c41477405002c4873662f0f1722011d7517193f2364381f4a77341c2c2d616f18753747445b7d691302537d774f692f073526445a4d587762435d6f4257114a3641527530675b456734300e4e65404a6744426f377f3b0b5d37624b7561366a16b4a2919cd4acab9dc29fa3b39eada09be5a48b83c8ccf8e2c0d5be8c8ad689b2938ef8f0a68a89b2f8a4878dadc489a0809af0f7bee7cdd0a3ba84b0ea
+Signature: e76b2bed0db0c51
+----------------------------------------
+Timestamp: 1749629420
+Sender: ship[2]
+Receiver: ship[0]
+Encryption: ChaCha20
+Plaintext: Maritime Navigation Data from ship[2]: Current position 40°N 77°W, heading 105° true, speed over ground 14 knots, vessel identification: IMO 1234569, call sign: W102A, cargo manifest: 190 containers, gross tonnage 6000 tons, destination port: Baltimore Inner Harbor, ETA: 2024-01-17 08:30 UTC, weather routing: avoiding storm system 200nm northeast, sea state: moderate 2-3m waves, fuel consumption rate: 29 tons/day, remaining fuel: 330 tons.
+Ciphertext: 0a350527481b18566631112e063a5849304e1a61643f3a457a303e3c1c7f29220e040c5c41687550132d221d2109396d16723d15691100244e46aec31f5f4d5dc5a460225c5a501262565e7f0f2c4948dbd11475126b6b483a657c76547b3a655151650e3b607a26487b30093b1d32335635670d60484b3749534013785b5f44b3bd91a7df9381daa991caf8a690f69de893c7f595e8f788fab5adbf9dffa9a3809aedcecbe3e5a1a7f3f09bae8ffef2d9ecb58fe9988bf78eccccc2e8cfda89e8fac3ef95dcd081f59390ffddf28a8eb995dbef8effe981baa0bca381bfeee5c9c7bb8eb8f7e6a7cff1f1cce6d2b7fdc9aee6d5fa9eeca5d6c2c5defecddf8a0e3a192b4e523d52341d1f2a437d7c69181b5473106c7a096a676162467f6a725d47674e4906163f462835193b157c6f59733b147417006340560d053e161e036973177d085d471e264c496b5b78145d2b51046f0d3e600b68626476506c6e260747724f7c616132527a2a1862523d384b206044600c037757165b52675a4906e7b282abd0d296dca88c85b59fa9d0d2b78186a0d4bbf484e8efeca79eb1a9e58395aec2bca0b0fe87b6be91a19ab9fb8ce4b8dba0cdddb4da82839da2d1
+Signature: a4af74b27a02ca5d
+----------------------------------------
+Timestamp: 1749629420
+Sender: ship[3]
+Receiver: ship[0]
+Encryption: ChaCha20
+Plaintext: Maritime Navigation Data from ship[3]: Current position 41°N 77°W, heading 135° true, speed over ground 15 knots, vessel identification: IMO 1234570, call sign: W103A, cargo manifest: 210 containers, gross tonnage 6500 tons, destination port: Baltimore Inner Harbor, ETA: 2024-01-18 08:30 UTC, weather routing: avoiding storm system 200nm northeast, sea state: moderate 2-3m waves, fuel consumption rate: 31 tons/day, remaining fuel: 345 tons.
+Ciphertext: 79083a201b3a523465230f0d012235224f373b7b613a5005763b0f15034d21157d39335a12493f32103f3c3e26115406690b1c0f6c146a64424c9fea006d456ab6995f250f7b1a706144405c08342723a4a8356f176e0108366e4d5f4b493252226c5a09684130444b692e2a3d055f58294c4617654d21774558713a67695773c080aea08cb2cbb8aa83d4dba1889bf697eae6ef90ec94c8f6be9c9682cda194f3a7d2c998c2afc2a4e1eeb8a9979399a6959495ec9de1b782c7fde8fffdd2be9bc7fce8c6fd9ae3f6818edcdaeae7e5c6ecfaf58bfa83c1b6ab888a9e8de6d2bafa8489ebd6acc5cce3efefe1cada96b6d7c7cfff9b86e5dac9f4f7e1ffd7bd7d07262c1d737730370f0109446511026762756915691049666c504b564d62452e7a58491a275c5d453a2b3a3c0d1104260a1a0e71126a234c5d3c2c212416341a4e287a5b7c0d7c255e57485c60793654282575083b0a4b6469555f4f5e6611747a4d482f402b505168343b654a50533459415e650969375b1d6a7b78684131948fbdac83f3dcbeab9e9b9698b1bdb9c8f8a7bad1be9ec4e5ecdd8e8183a1d2f0a891c5ef81fa9c84a4a0b2a682d490f39d99c1a5c8b0f1d689b2b4bde3
+Signature: ea2d51193480eff6
+----------------------------------------
+Timestamp: 1749629420
+Sender: ship[4]
+Receiver: ship[0]
+Encryption: ChaCha20
+Plaintext: Maritime Navigation Data from ship[4]: Current position 42°N 77°W, heading 165° true, speed over ground 16 knots, vessel identification: IMO 1234571, call sign: W104A, cargo manifest: 230 containers, gross tonnage 7000 tons, destination port: Baltimore Inner Harbor, ETA: 2024-01-19 08:30 UTC, weather routing: avoiding storm system 200nm northeast, sea state: moderate 2-3m waves, fuel consumption rate: 33 tons/day, remaining fuel: 360 tons.
+Ciphertext: 2b58420b1555335a4e1e2d4f2b1b2633143c19012602131f4106090d216b06032f694b761c265e5c3b021e7c0c28471732003e752b2c297e757299f2224b627ce4c9270e01147b1e4a79621e220d3132ffa317155056421201534b47696f1544703c2222662e512a60540c68143c4c497247646d2275626d72657722454f706592d0d68b82ddaad681bef6998bb188e7cce1c495d7d4d6d2c1839a8ea0eb8682a1f7aae296adceab8fdcccfa83ae8088fd9eb6efaba5a2adb5fafbf0dfdbf5a8c99784c3c892fb8dddbcac9ef0d3f4f49de7d88fccc2c0db81978b92bcabc1c4e8aafca2e5b9cdabe7decdadcbf3c987eddce5b5b8a3c5ffedf4f2efc3d9f0ab2f575e07131c165e1c32234b6e5c02133c6957135251535351515653756b45537c2a206214483d336e070978163402157d013874362a29397b603a3403023122481e505155136c120e63750a76596a270f23070f4f034951535453476d784107262a3563212f4a3e7a5516794f7343426f52632422312a2d6c206c635a4e6627c6dfc5878d9cbdd080a3b9d4b288aea893f385c09686ddded2d3db96a3a586c4a2f8e9eee1ee9bf2af9982f08cbbc781a896bbbbe2f0f1eee1b4b4ac9fc5
+Signature: 849b09a25a36b74d
+----------------------------------------
+Timestamp: 1749629420
+Sender: ship[5]
+Receiver: ship[0]
+Encryption: ChaCha20
+Plaintext: Maritime Navigation Data from ship[5]: Current position 43°N 77°W, heading 195° true, speed over ground 17 knots, vessel identification: IMO 1234572, call sign: W105A, cargo manifest: 250 containers, gross tonnage 7500 tons, destination port: Baltimore Inner Harbor, ETA: 2024-01-20 08:30 UTC, weather routing: avoiding storm system 200nm northeast, sea state: moderate 2-3m waves, fuel consumption rate: 35 tons/day, remaining fuel: 375 tons.
+Ciphertext: 0013095b373b3c315914381a3c3d362a4f3a38063b4c34426f2c1a4747082f43042200273e4851372c080b291b0e570e69061f7236620e235b598ab844284b3ccf826c5e237a74755d73774b352b2e2ba4a536124d18654f2f79580d0f0c3c045b77697244405e41775e193d021a5c502941456a3f3b45305c4f6468232c5925b99b9ddba0b3a5bd96b4e3cc9c9798fe97e7e592ca9af28fefa989c4c688afc28abce1b2b4c3c1c198d6d9af94889091a69897e8b6eb85f09bd0e8babfb8dce8e2dccf93eafcf4e6cab6b9cbe7f5e4edc6e1f988d18ce786afbd9dd8dac8e884c3e1b7f2c7d7c2c0f0d4d8f8dcd5d99eb6dac4b2a5ede2a2c3dee1a5a5bad9eb041c1557317219350b38361e797a120a676f76144f1f740e7f7b451a1a086c1357616b3236263258790d1c2d0112120c260719732b640e64554a297e6561186263551b01777d63791969605f617f7a3e54252608524d6e0c7d7e400d0b1b68470d617e33034145556d5f032c5855535b345442233f7f0d70420a7f293c2d4f67ed948ed7aff2b2bb97a9ac81a5aebeb1c8f5a4c78bc8fa83fcffc8dcc5c6af8489b3a2bec3809499b89397a59b9dd798f3909abcffbed7b6cf9ea7e6f9a6
+Signature: 56a6d79f880b6970
+----------------------------------------
+Timestamp: 1749629420
+Sender: ship[6]
+Receiver: ship[0]
+Encryption: ChaCha20
+Plaintext: Maritime Navigation Data from ship[6]: Current position 44°N 77°W, heading 225° true, speed over ground 18 knots, vessel identification: IMO 1234573, call sign: W106A, cargo manifest: 270 containers, gross tonnage 8000 tons, destination port: Baltimore Inner Harbor, ETA: 2024-01-21 08:30 UTC, weather routing: avoiding storm system 200nm northeast, sea state: moderate 2-3m waves, fuel consumption rate: 37 tons/day, remaining fuel: 390 tons.
+Ciphertext: 7c32091228030f305122393115025a110e0837760135533b5c055f24176a3c3a7803006d21706236243e0a0232313b35283410020c1b695a6877cfdb144a5845b3a36c173c424774554576601c174910e5973962776102361c501d6e5f6e2f7d2756693b5b786d407f6818162425306b68734a1a054222496f66210b734e4a5cc5ba9d92bf8b96bc9e82e2e7b5a8f4c5d6d5eae2f0e394f6dc80cca796eabcbbf69de1fbabfbf2c390e0d884bdb7fcaae7aa98988c92e289a8f9add9eddacf919efdcfdaf5c4c7e7c280b8e0ceca88d687d3f6f8ebf580ff9c9bddbb8aaafbfdbfc0b7bbd8eff1c1f8e2d9d3f5eab5a5f7e8cbc29f9485dbf0f7a4c6f5d8ca92783d151e2e4a2a34030e373550457e31265d7964756613774c5200794b6a7f6a2b406b7b291e0159713b1d06282d7e3767351603111d691d66636c1d35030b1b1f741b4868455078115f61744840160515172978683409754e57056e5b797b3e71407e7a1c79765465690207716a3f6075664d5305066a0971233a4a6c4f5c1e91b58e9eb0ca81ba9f9fadaa8c91d28a89c7abb7b1b19dfacfd48dbf95a4bcfdf592a2f7dcb8a798b0a5968eb2a2bba3b2a295ccc5c7becafcb7e285a9c4
+Signature: b307ebfa6daa5515
+----------------------------------------
+Timestamp: 1749629420
+Sender: ship[7]
+Receiver: ship[0]
+Encryption: ChaCha20
+Plaintext: Maritime Navigation Data from ship[7]: Current position 45°N 77°W, heading 255° true, speed over ground 19 knots, vessel identification: IMO 1234574, call sign: W107A, cargo manifest: 290 containers, gross tonnage 8500 tons, destination port: Baltimore Inner Harbor, ETA: 2024-01-22 08:30 UTC, weather routing: avoiding storm system 200nm northeast, sea state: moderate 2-3m waves, fuel consumption rate: 39 tons/day, remaining fuel: 405 tons.
+Ciphertext: 3b14092d215526034c0822193604090d4c32324224362d41570e58111a5428213f25005328264b053914112a113768296a0e153629181720637dc8ee19744c5ef4856c2835146e47486f6d483f111d0ca7ad3c5652627c4c175b1a5b52503b6660706904522e44736242033e062363772a494f2e20415c33646d263e7e705e47829c9dadb6ddbf8f83a8f9cf96aea7d994efefd6d5e0ed8cd78bcb929bd4a8a0b1bbe1c4a2addbf18dcac3ac9eb1afb6a5909daca9919cf3a3f2aaeceee4db8ad9dbcfe5fc92eed4dfaaa3c8edccdbcac5e9f3cccef6fe859790df8e8794efe6f8e6b784d1b9d8f2e5c8c2fbd6ece6b9b5d2cef6ba97fba1fbfca3f3f8e6de893f1b1521271c03071e242c1d73432d2d64677c5050656d0d4759074c45546b716c666b442048286a6c11062e0b2b2d2b250f1337341e17676d686b28383d1f0058521b776113794b0c757a5c6b464519572d2c4c4d37770f455c025b56476f2536667e45152f5f677843192f526c6c7c375c4867200514737a283d7f61714805d6938ea1b99ca88982b5b682af978196cbfdae8394b2e380c4d18a8a989aa8e6b2b4a2c8d5ee8eabad8f8da691a4e8bff09890f8e0c3c9b5f7bce5b0a4fa
+Signature: c10cd87d1fa16692
+----------------------------------------

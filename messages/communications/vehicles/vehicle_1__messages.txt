@@ -1,0 +1,354 @@
+=== Communication Messages for vehicle[1] ===
+
+Timestamp: 1749629420
+Sender: vehicle[0]
+Receiver: vehicle[1]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[0]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 121a25122e271c463e4e210f4d1a4234211e18081c4f383412477005153a47280a2d3f6435547f053868123e763d6232013f3c3879794b4636675f3b7c52493b5508675b677c5b4f431b745e0b090a12291401050c1e322b0a5d3e0303245a220a284875464b3f766229496f31666c2103352d3039694b43716a5c766657220bf1d0e1d8e8ab918184d4a5dbcc8c8f91b48898888c9dbbe693c5a29e91be8ef3df0a5497c4cebdb4acf185fbebb0b1b594b7f9afadae8a93aeaabf98fcd2e08efedca4d0edfdcbcfc39bf4d297c79881d9d3ded4cecee7a6f4c7a98690dc81f9d2e088b4cdddebefe0bbd4febca9e3f3c3f3effdf5afcacff0af90a2a488fc9e6a483311293a17031f1a2314560d0b153815170f590c32231c587c5304204f2d002107740c0b3135246e197b752c26280437757c2b2a1d093067153d34176a4b60476858677956484a5a64520b5d434f725f1909094232265c0e7143447b186e066b5661415d7a266e354e6f2a666e2154747e7d7e6a5a08
+Signature: 244e002efae3bec1
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: vehicle[0]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[1]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 1c11083f25382110214f33093719630938241022305c16002425605c3a424649042612483e4b4253276900380c3e430f18053412556a657200054f62532a485a5b034a766c6366195c1a6658710a2b2f302e092f200d1c1f3c3f2e5a2c5c5b43042365584d5402207d285b694b654d1c1a0f251a157a657747084c2f492f236affdbccf5e3b4acd79bd5b7ddb68faeacadb290a2a08e95d2a5a7b2c7bec68f92d10179bacfd180e2b3f097fd91b390888d8df18581bda4a798c8afc1d3aae1eff0d789fde6e2f699dc9ae6d4edc4b9bcc0e9d6fee2ddc992c2a5b9dfbfa48098dceba599c6c2d6b9ffbac6f8c6aac2cedac9e7d7d9bce4fbc6cd80fb8bf0fdff64431e3c22252a55001b31122c0e2a28212f1f25751f1c172a3a6c0a2b584e4c0e2a2a5907140c633b6f0b7d0f2f07151d0d7d560739333d060505641b6f6b2a6e4c45756c666b1e555b7654715e62726b65112325511c126a6c611a6b03190f08607b4c4a42477071345c6950654f1c4d4e76575279743c
+Signature: d2ecf42bc414ac4
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: vehicle[2]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[1]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 6135023457022d722f1a061a3428416d243f2006084434570404593b37024028790218434c714e31293c352b0f0f616b041e04366d724725202476055e6a4e3b2627407d1e596a7b524f534b723b094b2c35390b18153e481c1e173d211c5d2279076f533f6e0e42737d6e7a48546f780614153e2d62472067297548446f250b82ffc6fe918ea0b5958082ceb5be8cc8b1a9a0869896b78585868ba0b38689f3ac2573b1bdeb8c80bda5a2ee9282b2ec9196c1a1b9a586f0b8e996a6deeae78e8df383f694d8fafbd2cfd3c7eef59bd8dcf2e6dadac5ebc5e28480b8b2e486f9a1cfaf92b4f8dadbf1eff3ebc59be0aac6d2d7f3e1a4c6ace6ecb99c86b0fb9e19671437501f26370e4e04012f3f084c3d342f014d073e400a1b556d2618482d730e2052752e0001353a3e6e0c1e257101164d723f21116a26243c03162f6d4b13684f7e1e5c677c5b0e4347726f4016777e21071d493e454a4d587d66431f6e7544714738784b127f61697a53546d78515546736a61566b
+Signature: 5e8553c68028ed29
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: vehicle[2]
+Encryption: ChaCha20
+Plaintext: SAFETY ALERT from vehicle[1]: Detected sudden deceleration ahead, emergency braking initiated, current deceleration rate -8.5 m/s², warning all nearby vehicles to increase following distance, hazard lights activated, location intersection of Main St and Oak Ave, road conditions wet, visibility reduced due to rain, recommend speed reduction to 35 km/h, accident avoidance protocol engaged, emergency services notified, estimated clearance time 15 minutes.
+Ciphertext: 1b782b761c657f74142d3c676b262a1a070502470e3900230d141b0c725e1f0e1c7c2e670d785f660d2c2a7605401c30296038673411370627012a10003b1a2f2459481e6d0e7810764b57536972795e430b53424f7e4a7b416e1e746c123b485d2b7f3646281f315d6b6b3f4e525961632a7a627451774a2802721f1d3e5624bb7b5f9fe8cbbec7b68180d4eba1b499cacb91c394b29aef9eaac2b8ab92be98c8eda2b381f29ce79da9bdf6cb8697b9a6eaa3eba897e38ba19cfe9086bd9ee7a891cc89e98efbd5f4c1c99bfff3b8d4c991dd94c7e4c6eb84af86feebdfefc2c7b7adbac6a8daa7cbededa7c2cfd6b5e5a3b48fe7d9ed8fdbdbead0c6fa9bc429524d723e5973152a070f576b23371b0e4c004b093e106f1f2a5e7d68083218017b247f016806350a2d2a6608051c752e703122321f631d2906645d482c1e286714401666183f06684d4b172b727d515f06400b497e037b472f59242855760440752d324b3f56315d667a734a56577c6e247a216310735d675b255247721b6ea6de8cd4add8f395bd858bc1aca5b696938587c794a68aac8dbc8abfa78ab28d81fca9bfc8f98ce191a5afe78e84d8b6a6e0b5f0a79ea08ae89be39c8dfecafea894c49dfd88fa86b6
+Signature: 10475d0dfa9cb3f
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: vehicle[3]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[1]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 6210155518362861691a5f2d372b662306041e3f3c5b481c3a307d23093706257a270f2203454b226f3c6c1c0c0c462526253a0f596d3b6e1e10521d605f08362502571c516d6f68144f0a7c71382e050e0e07322c0a4203222a33251f291b2f7a227832705a0b51357d374d4b574836242f2b07197d3b6b591d51507a5a630681dad19fdebaa5a6d380dbf9b6bdab8693929ebfac89cbcebbb2afb88db3cffeaf0064d0f2df8993fba5fbd9918195a2b3adff988dbafabb86ddb2bee0dfa1838ed69497dbecffe894cf8af0edf6bc96fec9d8e3eeda978edcb0a4a08cd1c0f4a2eab8f3fbccdfc8b7efaadcc698c7e4e4e9e9cad5bbbae7d8d89d84b885bd931a4203561f2b2324484e5d362c3c2f021f0f11387918420b342f7175182d0e20702b37333a1a0512733a67590f1d023f232d734b0b3e6d211810181b281a2b46104d581f5168626f1d0e1a70716c675855451f3e2956420e74797c655876596376616626774c4e013961304d50574a36736e784a5e7e2a20
+Signature: 6e1d0a32b0b0b4dd
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: vehicle[3]
+Encryption: ChaCha20
+Plaintext: Route Optimization Data from vehicle[1]: Analyzing traffic patterns on current route, detected congestion 2.5 km ahead on Highway 101, alternative route via State Route 82 available, estimated time savings 12 minutes, fuel consumption optimized route suggested, real-time traffic density: heavy on main route, light on alternative, construction zone ahead with lane restrictions, speed limit reduced to 45 km/h, sharing navigation data with convoy participants.
+Ciphertext: 2b2416190d690102240f2d171f1d3d0a122764263d024666363134196a25190230082f281358336850070e3f2925132a330e44360e37610019005b240b07282f4b65500d47672e516554725b4b482951527c704730160363646678406f771c49764564687b5d477d5e261230303c426e3d484c675d7267495e03737d4d5b6b6b80ebd2ddd9e5ee93bc92a58c8b9dbd8a8bace490b383d3a3f0b5b295ea80888bad8ee39fa79c9ab7d0fed2fea4aa88aab18886ae99faa783839792b98b87b9ae99ffcac0cda9fdd3e6cfeed9d69cb8919de4edcce9c282f5bca3fdc1efff9cc9f6c5f0f8e5d9dafbdfe880f1f5e8c0eef4d3c1e69ce4a8d3c4c69be7dfd4fbef0a3f060944693c17310a6d0a0c112c43093b25043a1f446634263507232705507903262c3e104e3d1e660d3f2c324931321c102750766b0f170b0f74051d7c2b557f465f46687a5b66432c1e46536750497b7141685f08683079745a6f335d427c4a672d7f405a7a106a4170603c5b666e5d566b5f622e495e5017345943796f9deb8f8485a0bad2a283a48b8699adc389a6e4d6e9d6ccabffabf7d4b9bb9d98b085a4eda68898bb97a794b7aab2c9a7bc9d85e28bbff38ed08094ba9c9ca5eac9ead1d9c1eae7c2f1c8f4cd8b
+Signature: 28b75826f61ae6c9
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: vehicle[4]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[1]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 6d120a07063603722f0b19474b485e1c553e23104801412736397d5d3232253e752510701d456031292d2a76706f7e1a751f07202d373255121952635b5a2b2d2a00484e4f6d447b525e4c160d5b163a5d343a1d58504b382e23335b242c3834752067606e5a2042736c712737347009771516286d2732505514512e415f401d8ed8cecdc0ba8eb595919d93cade93b9c0a8a390d8d3c2f5b7bbafc6b6b6ece5a0027b82ecdfa280bdb4bdb3ede2ad9de097c2b7f9e0f3808ad4b2c0dbda829881d48bc5c5ecd4fbd2decc9a919584a9adf3e5cc9a809eb5d0b9a4deb7d4e3efade8a7a1e5ccf4dbf1feecb6bafbffdbb7d3d4e5a1e1b3dcd4d19dfa83809e8815401c04012b08370e5f1b5c505f173d4c352c170d424b303826710b23282d3b7f292861241a2e01352b2133737e3a0070174e647f64641a14191865131f085d1f4f474d4f68497c5b1f5c1a0d0f5f67067f22115d0c4b3578707c1b63737a7879637974694c65127f7076272c347209205445652a24231b
+Signature: b97628d167db963e
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: vehicle[5]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[1]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 62433a2f2f3b3f6134133b0935391a6f564d3253367c330a18134b5a0a1720317a74205834485c22323508380e1e3a69766c1663534a40783c336464637f2e22255178666660786849466e58732a52495e472b5e262d39150009055c1c093d3b7a71574847571c51687453694945347a7466076b135a407d7b3e6729797a45128189fee5e9b7b2a68e89bfddb4afd7cac3dbb2d3a6aeb0d8999199c18e93e9eaaf534baac5d29e93a6ac9ffd9393e9eee3e4d3f4879d81ada4fe84c7e3ff87978e85bbedece1e8e8c9c6eed4efe4c0daae80f48fe4fdec98fe9392d98ff1e6e0a2b99789ccc1c8c8eae6cef8c48abba8b4a0c5a6df9cc1f1fafbabfdbba59b871a112c2c28263424154739122e2e534e4f463d54733f391d160c470c1b0d2834707818490d1712122e33037d0d0f7e7373645f27011916373a332e622b3a0d52101e77656665756f40077e54737e1b14050c335223713918565a4a1c5b567f777632495c40415901646854695245367a2327542654595136
+Signature: 63eb777d8930998
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: vehicle[5]
+Encryption: ChaCha20
+Plaintext: SAFETY ALERT from vehicle[1]: Detected sudden deceleration ahead, emergency braking initiated, current deceleration rate -8.5 m/s², warning all nearby vehicles to increase following distance, hazard lights activated, location intersection of Main St and Oak Ave, road conditions wet, visibility reduced due to rain, recommend speed reduction to 35 km/h, accident avoidance protocol engaged, emergency services notified, estimated clearance time 15 minutes.
+Ciphertext: 0512122400376a0409342e135a5a0e59190629321b18221f100e7974726d343b02161735112a4a1610353802343c3873376313122130153a3a1b48680008311a3a33714c715c6d606b524527580e5d1d5d0878375a5f68475c747c0c6c21107d434146645a7a0a414072794b7f2e7d227d29511761705576351810671d0d7d11a51166cdf499abb7ab9892a0dadd90dad4c8bab68193b8d383b0a0c0aba195add6879be19da0899780b0af82fafab3fab8e9889ebdb6c1b7bc869ce8868eb5d2b6fbf5dbf5dceea5e9d8dbefce8f9c97d792f6e1d2c5e4d799b5e486ebecc4f7d9dd94e8dafacfd7d6f4ffd3f3b3f2f6fba09ffaf2f8cfb3c6c188a8c6c9b0f137387420220b6665371e1d235a5f1358104f2b3e1c1f325302303c05683b192d1f111d2d1d3a1345173438123979383630731a57273e4121341c0625481f351d797e79447a4a2a76755459631a0e591241056b7e5c5f21475a353b5c28665d315e1f1460576d4341407f68077b2a733f70275154763151617a41472a4741305bb8b4b586b18ae6e5a09c99b59dd992d58d86acb28187a89090a6e8c7a7b999b89f9690edd4ab99918cbcbd93bff8fcf5b8e39e85b2bf82b6f58181e48dcde1cbb6fefdcfe1daeff6ab
+Signature: 86a33205580e8cea
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: vehicle[6]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[1]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 1a250d35370d3f1430180c1330335e63241337503370110c04034b223d0c2624021217422c7e5c57363e3f220b147e65043213605646627e2023641c546428375d374f7c7e56781d4d4d5942762016452c192e5d23211b131c1905242b123b2e021760525f611c246c7f64734c4f7076063802681656627b672e67514e614307f9efc9fff181b2d38a8288c7b1a593c6b185b7d0a3a292de858199b9b988efffd7357cb0dde49ee6a2a7a8e79699ade291bad6f78291a3abb8ee84bfd4e48182f6e38cf7f4d7e89dcdcdd9ceeaee84d6dcdef18ce1f1ce9ee28392a1b8eae0f5dadfa093d4f7c8bdeeedf9e2c180ffa4c6fec0a5da90e3f7e6ebab858cbe9d9262771b3630103451114c0e082b2417423d18385776331b1b0a1c47742c162e21081e2f53152112672a38346708053a7f013a5a240415343126232e1a1c210b476878407f7e53751a440c494e76745f1877523651267d1b1e4a4a4a646c4d79620e547e465877597460636373574f72765179512551557330
+Signature: 418465b09f29db5f
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: vehicle[7]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[1]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 272b2f355a590454220e0a1538075e09540c1b213b651f1736335b580a053a143f1c3542412a67172428392403207e0f742d3f115e536c6512137466636d340760396d7c1302435d5f5b5f447e14162f5c06022c2b3415082e29155e1c1b271e3f194252323527647e696275447b701c76272e191e436c60551e772b79685f37c4e1ebff9cd5899398948ec1b99193acc19a9ba1abb79cc5b7b189c38e81f3cfea3b5eb0b0b0a5a6b0b1aee19eadad88e1a5fa868a84adb08ade94c5e3ed9db2cbedaef79983d3dddfdbdfc8e2da84bcacc1ddfde9e4c085d0b382db8fe3fcc5e7d18293b9a3f3fdfcfbffe4c9b4ffceb6e1ecd4d285edecd4dbbbffbbb781a25f7939365d440f11035a080e231017284d0714267e261500382c570e1b1f321135100d5378752927382e326100313a15712576550c003a2a14133e602b2817775576627f13074e5a561a4f487e405f72074d1a202e681505787a5a1e5b446552335a5c4635236234727565755f7b721c21667d5459407d2b
+Signature: f1e77f7a2f4ac195
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: vehicle[7]
+Encryption: ChaCha20
+Plaintext: Route Optimization Data from vehicle[1]: Analyzing traffic patterns on current route, detected congestion 2.5 km ahead on Highway 101, alternative route via State Route 82 available, estimated time savings 12 minutes, fuel consumption optimized route suggested, real-time traffic density: heavy on main route, light on alternative, construction zone ahead with lane restrictions, speed limit reduced to 45 km/h, sharing navigation data with convoy participants.
+Ciphertext: 62563b0d37141d3a121413541403020d362b0a2606103b0f2a1f27305d023e11797a023c29252f50661c307c223b2c2d17022a3635251c69052e480d3c200f3c02177d197d1a3269534f4c184056165676701e470b047e0a78486b6958503b5a3f37497c41205b45683d2c733b227d691944226766601a20422d60547a7c4c78c999ffc9e398f2ab8a899bcf8083828dafa08a908891aecaec9ba1bcdda7af98e4fcce8b9de1868fe6e5ecbdafb4b7ad9584e8aea2e8daea9fb98190bca09ebdd08de7d4f7d4e1ebd0d4d09add828796b9e883ccd2d0ff9ca08deee8d8d8bbdabfb7ddecdfa4c6c3e9f3beb2fef6ffe9d0dfafe6a7f6d5bad8e888cee8f3dcfc434d2b1d7e14202f07115349070f13442d374b04010d390f2808262e1400224330710b38046d5205287d337c272c763616107e276b6416660b251c5d323a5b381c0d6b4b7c1566635058125d4d4d58576d771f41534d75012c57677358147a5135384a39453d464226717f336b2264614a51386b64705320427e041d6e645e7cd499a290bfdda6ea94989ac88d8792c4adaa8ad6d2c4b1c2e385e4fd8e9cba8bf9f789f99cf58483a1bcaaf4a1acf6a09891ebe2b0ad8ee7ccae8793abbb82f98098fccdfb97fbfac7d3ca8e80
+Signature: 361138b7e8bc8658
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: vehicle[8]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[1]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 2e3209175b15577f18160a0932494d0b591b2712057844173c4d42251c37471f360513604066343c1e303938096e6d0d793a0322604e3765186d6d1b755f490c69204b5e124e107665435f58745a052d51113e1f15294e0824570c230a295a15360064703379744f447162694e35631e7b30122a205e37605f606e566f5a223ccdf8cddd9d99dab8a28c8eddb3df80aecc8da79295aac7c5bdcf90be98b38ec4e3227892b1fcf68d8aa9aefd94e3be8aecb2c6b5b499f6b080a08db8f5dfe0b9c2f488d598cf80f6e5c3dfd4e89497bea1d6e1ced7f99b85dacd9ba699d181ceeec8a4b1b8efa0d6c6e3fff8c3faecccbbf6d0e7ec98b6ecdea5a282ad85fca956601f145c085c3a39420812295e042a40102815403b4e0032524e730d2d4f1a3c092b7179397a0c0236327d0a7f29177c324a66321d612a1e6d271d3d1a6a7c5c6f445d124b1d716c024f54740e4c700a5a261310754e05720443634d7618593a437a64346f311f486d65695535611e2c714167675d262b
+Signature: 8bb22c0d6169c2f
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: vehicle[8]
+Encryption: ChaCha20
+Plaintext: SAFETY ALERT from vehicle[1]: Detected sudden deceleration ahead, emergency braking initiated, current deceleration rate -8.5 m/s², warning all nearby vehicles to increase following distance, hazard lights activated, location intersection of Main St and Oak Ave, road conditions wet, visibility reduced due to rain, recommend speed reduction to 35 km/h, accident avoidance protocol engaged, emergency services notified, estimated clearance time 15 minutes.
+Ciphertext: 3f0501313c3753071629176d582008044a7c54121b1f4c4e27755d0d1e0d112d380104202d2a73150f28017c36463e2e64196e3221377b6b0d606c116c68140c002462594d5c5463744f7c595a745b400e7205175a5806166b0f58750041356b79565571667a33425f6f40357d547b7f2e532c3761773b270263341e716d58079f0675d8c89992b4b485abded8a7968787b2c7968194d682b4cb84b9c7c1b0bbec9088f4a1a0b0949fad96fcf880b5a7eb93f5bebdb1afe68bfdb891eaee90c48cece6cec9dcd7a6f6c5e291ccf59aca84e88bc1d2c28a86aecec0ff878ce1e1e3ca87fde6faf6d4c9e9c6adf1c9f4aba8dae2daf2ffa1e2f1baacd1aaa995e70d2f67351e0b5f662803245d582515054335561e1c185c02354b187c045b3c3b25060e38213a2a460829016c3b033e6b6309677727392f700367225c247f100b43696a51464a13756a49601d18745f4f127f165e5c584f166d4e1f2544067827640807756b6d7a425f62517979507562235d2c7476363f304d3a63532b21154d82a3a6938d8adfe6bf81a0cb9fa39488defcd1928180c6c1a7ddccbecbd9bcaea58183f8e8aba09293a184edbd82faa8eb99e3a5b2b8ece7c2faa59de1adc4dd8ce9eedadddad6f5b4
+Signature: b79c97c869312927
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: vehicle[9]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[1]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 0d1625162f232b620e4a064e2e184b3452391b541d64075d1e4248003737111e15213f6134504821086c357f153f6b3272183f647852742f3a62673e5e5f1f0d4a04675f66786c6b731f531f680b03125a3302590d350d420658060621290c1415244871474f0852522d6e2e5264652170122e6c3842742a7d6f6473445a743deedce1dce9afa6a5b4d0829aaf8e8691c7af9bd48db6848f9fc09a9bb3b3d8c5c0065493c5ca8a909cf5a2ba88b2b8b5e790faf3ac85b5faa2af879ddedfb6b8e1d0a4d4ecf9fcebf39fd393f4c59181aaf4dd88cfe5d8cff8c29183b2d1d7cfcdec88b0ccd9dccbd0bff3bfdfabeaf3b0d4eca1f484f5a6fcaaa8a78685aaa875443315283e20272f1e0455350f02154b32145358270d4a105d4456262d191b1f2d07700d0f0611146a3e3a162e2f28771076202a0122603c622d38161a3c7d7f4b685c667d616c7a5e4313685f4a4f01781a5508690d4f500b494666764e581967566540594d025e31692e4964672127537d217f416561
+Signature: e707605939aadeb6
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: vehicle[10]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[1]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 18473652010656733e0b1c163e1c1f0330133f292542143c4f135b010f224e0d00702c251a753530382d2f27053b3f0510321b194074674e6b33743f664a401e5f55741b485d117a435e4947780f57253819262435131e2357091507193c530700755b35696a7543626c74764260311612380a110064674b2c3e77727c4f2b2efb8df298c78adbb4849198c2bf8ad2a6a585bfa9b59097eece91899a8ba687d6d55747d7ebeff781acb4b8e298b6ec8285bade8e94a3a69bf3fe949ce6cae9abf481b790c2dc81fac3dec9cbe4c1c5b6c8def9f5f7c3cbaea99382828ac488dcd8bd9bf4e2fca1dae0fee9e7cfafbec4d2fec8dccca2e6c7adfbbba6be90f5bb60152051061b5d361f5f1e0d250b56222918302e60011e2b410c57571e3846080a7c1434232a7b00242b2462062a7b1f153a525d122731016d333e392e0f636e6a1a7b1848581c7d4a1f594b785b1e7863523e28304f1e2e015a5a475e63114b0c3645216e7c30136e707376596033164579595c47677600
+Signature: 4a2431d894898f37
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: vehicle[11]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[1]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 1f021614510208771748243b0a35652a510c05513b6d12023c360c2e41471c0507350c634a716b34116e170a3112452c712d21615e5b617018162310282f12165810545d18594f7e6a1d716a4c262d0c59061c5c2b3c181d242c42285759010f07307b73396e2b474b2f4c5b76494b3f732730691e4b61755f1b205d322a7926fcc8d2de978e85b0add2a0ef8ba3a88fc49a85d1abbf91d0bdb4deb5c5c3d5ded2126791bbeba98585f780cfac9f96abe4a5e4f68a8ca0a580dbc3b3a8afbba3f3c497d692d8dffeea9df1e6d0e8bf9fa9c1c38de9eccd90dab6d5adc4a1dad4dff8bbb2b2f8ffdec9bdd1cafb86c4edb3e1f2a4d28de0f9dedeec89f0f5a7b367500017561f0332361c262011222c0b48070a567e2e181532290078505d14000d393472732e25040d681c4f32030136742568250c08373f1e166916606a31666d5f5b5e185c4279635c61664c726451024d04502e601810727f0d68100643430b7365673e786e1747334b5b6d49493f246663245948703e
+Signature: 3a51cc2de4fc72c2
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: vehicle[11]
+Encryption: ChaCha20
+Plaintext: SAFETY ALERT from vehicle[1]: Detected sudden deceleration ahead, emergency braking initiated, current deceleration rate -8.5 m/s², warning all nearby vehicles to increase following distance, hazard lights activated, location intersection of Main St and Oak Ave, road conditions wet, visibility reduced due to rain, recommend speed reduction to 35 km/h, accident avoidance protocol engaged, emergency services notified, estimated clearance time 15 minutes.
+Ciphertext: 06720631250c470e303d37165d2217273056202549360f4e180343054747390c017603203411671c293c21073344210d1e331a05731e386b3216721935223c2d395365595467406a525b5c225f76446374587120087145165479467d590b1d4a402152717f41274b797b604e7856645c54795800335e78273d152a1628277026a67172d8d1a286bd92918ba5dda589a4fd98b3a1d3bd95828bbd9ab19e8b989ad5e78ff4b89ba49db9b9b687fd82aa8491b98189ef98ece6b48ba699b3a4b8e5b59be1ced0e7c3afd0d1c2eac9f785e9fec2fff680ebc98691b8def7dec6c9c0dabd80fdffc1e2ddeffde6d6f4cbeb88d2f096eda0d6e2e2ceccb2d9f3e3bdc63458603507304b6f0e1704265d270a26391f22294e311f020a3d06745d11141a1c71093838013e4f2e3d21173e0121481923134075106c703c113c547d35382a7a1e6d515f71077c4c5d40661d76406c685562690e710c165238012d1d4c50065d7f007572566e4b797671027c526a4159775843241f7c30724c7d5b726b3d6cbbd4a19394b1cbef999580b09aa18baba4d6a5a5d3a985c198abd2b69293948f9cf684f8f190b49bb5b5a496b880e58b91b39792e091afe7fd8cbb95b8e7ecfcb59ee9dac4e1c2fc92
+Signature: 9fafd30d41026de2
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: vehicle[11]
+Encryption: ChaCha20
+Plaintext: Route Optimization Data from vehicle[1]: Analyzing traffic patterns on current route, detected congestion 2.5 km ahead on Highway 101, alternative route via State Route 82 available, estimated time savings 12 minutes, fuel consumption optimized route suggested, real-time traffic density: heavy on main route, light on alternative, construction zone ahead with lane restrictions, speed limit reduced to 45 km/h, sharing navigation data with convoy participants.
+Ciphertext: 05391b4004463b413b090d380e2b4c2f382b712038581f041d380d10663a39011e1522711a77092b4f012e103813620f190251300b6d38623209622d0718082c65785d544e4814127a5252745a7e587478706541354c5a014f6f414963683c4a5858693172727d3e4120321f210a334b1744596158283e2b750a4a7441444b68aef6df84d0cad4d0a39485a39aabccafa1a0f196b6d98ac1dbbc8b9ce69fa8888393eec6aeb3a0f4cff8f2d1b59cf98f9b8493a89ca0fee1a89eabb0879899adb7e2c799c486c790f9c9cef6c7aac9b4b7e8f8caec98db9797aac4c8e3e0bccad8d8fda1ecf6e0b8c0eea0dee4deb1cbdedfd4e099bef1b1efcfa2eed3cbdbec24220b504d4606542e0c4d251d275d66233730023f451d041f2f0c0e2f382553571e2b75373f747e01602d103d04381418100521552c326d3c02367d09025c287b624b064f47401879450c3157651675637764476d05510a1b704d53632c7d4152576a74766f60390f6c615f710a2a434451436d5a38772b75592e3d555c596cb3f682dd8c8f8091bd8584a497afdce6a3aaf1d0ec8c95c9d4a2ceddb5a4bd9b9e98a9b4afa7a2f888a1b498bb84b882969190e48ee5aaecfb89adb3908385e9e7f7dc80c8c5dd81eeced4e29a
+Signature: 452bbec49b86002b
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[2]
+Receiver: vehicle[1]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[2]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 192b12501424156d3d245e373416620852362a11365c060d1644792115470535011c08240f57762e3b026d060f31420e72170e21536a757f3264561f7c2f0b265e3950195d7f526440710b6672052a2e5a3c331c260d0c120e5e37270359183f01197f377c48365d61433657486a4c1d701d1f29137a757a75695552662a6016fae1d69ad2a898aa87bedae3b580afadc7a0aa91a68e85df97c6abba91c3cceed43b63d5fecdb49faf9bfac392bc9189e79fcbb687bdb4aaaaa9b6bcfcafa293f5ed9392d7fec2e4c0f18beaeecbb8bdaafbeccde4ddd99ff0c4a0a290a1c3e4d9d1bff6f7dee2c4e3d1abc6c5a5c3cfb0dbdde4dfbcf4f6f4ac9986a4f5be836179045313391e281c705c2c2f012b294b3d2516731f0c1a185b7577045d0d300b1030363608381e270466430c200614771f47650139233034641c19346a28566b765f1a5d7a5f6349301b6a7251637301772b1023510c1f580d786744065a730d5a61237b5e730d6d5f3157536a4e1d275c4c6454796431
+Signature: d10a4094fa7fe7b
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[2]
+Receiver: vehicle[1]
+Encryption: ChaCha20
+Plaintext: SAFETY ALERT from vehicle[2]: Detected sudden deceleration ahead, emergency braking initiated, current deceleration rate -8.5 m/s², warning all nearby vehicles to increase following distance, hazard lights activated, location intersection of Main St and Oak Ave, road conditions wet, visibility reduced due to rain, recommend speed reduction to 35 km/h, accident avoidance protocol engaged, emergency services notified, estimated clearance time 15 minutes.
+Ciphertext: 18703d76153e773f17231e3d541a140517590213160a0c332f7b7f7254656f151f7438670423572d0e22082c3a7c222f393c38332c223b16056e4d6e26006a3427515e1e6455705b75457509564e474153575316574d466b6301790a4a294b535e2369364f73177a5e654965716e677e73767a366c627b5a0a6d15613b05263fb873499fe190b68cb58fa28ed49d8a86da9791978c8196ffbcc5a5c68da9ce83cbe5b4b388a994ac9ea79facf4baa9a6b6b6a3bfb0a4ef9b83f399eea086eefcab99da89e0d5f39ef7cfebc1c0cf86cbd9cdddc0dfd7cafba6c0e180cde49fd9c4bfbbbacff3d2ecc8e3cffdfdf3e8aaf5ffb4dbffeae19ff9b48daee0c1ebdf2a5a5b7237027b5e29092d0d541f09041e10001f110d1c7f3d4539034e3342030273327f08330e7e0923083c3739226a3e2c31762a2c6f0d0b6903236e176e33641c56166f43374d6b43694d144e434e4f5a405f514d0f6b65403e5a0e6e061f437d3b3242645e7a5e685829756a69637e787a757b237f4d4534422c61496b75a5d69ad4a483fbdebe8ba99b9399888983d987938c9586bcafd3edc181b1c29682f4bfbfc1a284aa92ab8dbdb1b8e6a9b6bcb5a4bfadac9acaf484e2abc5bae5ab9cd29df4d3f2cdb5
+Signature: 28d2d25dc2093ca
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[3]
+Receiver: vehicle[1]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[3]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 1a2a0c0e1a39177e024f3e1132336f12280045313c472600062c5e2b4b1a3b0c021d167b014a743d04690d2009144f140821610159715572220c71152272351f5d384e47536250777f1a6b4074202734200a5c3c2c162c1f1e36102d5d042606021861697255344e5e2856714e4f41070a2b7009196155776501725838775e2ff9e0c8c4dcb59ab9b8d5bac5b3a5a2b7bd96c5b1ac95a5d287ae8cb0cf9ef2d7d73a7d8bf0d0b68c90f09ae594999c939da9a4968da694a7bac191b6a2f29caaf6ec8dccd9e3c0f7ff9aebcce8eeb5a7d0cd83edeec6f992e0ac87a8cefcfddddad0a1a8f9c3e0d7dcbacbe0c380ced5caedb2c4d5a7d4fbe4c4be8cfaa880ba62781a0d1d241c3b231b3c0a29242633310b4a3679042c170833527d5a00330908112e6838153a0d186f06650a050b0e0d2928450b22033d240c3b136a37166f6877414453675d70765b7b4c74746e697b414430294a2c1248655f6d1a5b644a0e5b7f7d7543711e52345171554f43075d6a23445e62443c
+Signature: b9ad6d986700d377
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[3]
+Receiver: vehicle[1]
+Encryption: ChaCha20
+Plaintext: Route Optimization Data from vehicle[3]: Analyzing traffic patterns on current route, detected congestion 2.5 km ahead on Highway 101, alternative route via State Route 82 available, estimated time savings 12 minutes, fuel consumption optimized route suggested, real-time traffic density: heavy on main route, light on alternative, construction zone ahead with lane restrictions, speed limit reduced to 45 km/h, sharing navigation data with convoy participants.
+Ciphertext: 661f340f275521121b5112541f3f3c234d475b3a10072d7a3007423169330d127d330d3e396613786f59317c290712036c6e7b2a23320a1c1f362d0c08113c3f065e721b6d5b0e415a0a4d184b6a28780d1c4f5b1d13687f62500e686c6108593b7e467e5161676d61782d73301e43476228737b70770c55583505554e4d7f7bcdd0f0cbf3d9ce8383cc9acf8bbfbca3d4ccdb8c9e86b8bff683c4bde9969c9be0b5c1898da0baa7efa0edbda4888983eee8b9b2b4ffcc9f85a1e4918891adbed4c4e8d6e795ddc3d991d19ad6beb9b8c284d2d0c4c7e9e9ba958be9ece988d9bbfed2eecfe5faebe0b6bfb2f5cac1c7abb3fefab1e1c3cfc2f0edcfdcc2efff4704241f6e551c070e5452490c332d6a565b1a18171a2f7a3210432f203111403438043a142c6e2d2138327c2c1048186d7c2f3b7d730013113d795c060b683b184464496c545a4b591d135d46716679161b4e5d455a6374364f02726c2549523171453b557c7a6a2f347e33601e5a4f313d6977726745555866611c5a556d7fd0d0ad92af9c9ac29ddd9bc886bbacead6c6dbcac4d3a7b7f99d81fcbaad8988fdbe86fb8cb4b8aba8f9abf4aa90c88ee3fdbafea6ba9892d6b6e2929f8ab1fa84d1f3cfebd6c7d2ce96cb8e8b
+Signature: d4c47708a69c9e7
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[4]
+Receiver: vehicle[1]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[4]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 1e4000242b1a127e1f363d0c3508781019223829210d14120d164b5a3f12470806771a563069713d19100e3d0e2f581639031c19443b676029366464567a491b5952426d624155776263685d731b303611282124315c1e0d150c055c290c5a0206726d434376314e4351556c497456053b090d11042b67656e3b67294c7f222bfd8ac4eeed969fb9a5acb9d8b49eb5b58cb4b8a9b1df97c08c9499c1bb968ed3d35071a1c1f3b38c8d8999f893a28b91ac8bd98e90eca6b5b1fb84c7d6fae0aef28681e6e8c0c5f7e2e3e8d1efd5a2a5e1effef5f38ccb80eb9692d9baf481d9debaad82c8e0e5d7c1c3c8fdc4bbd9d7fbcfcfdcc8ede6e9effeabfd8ea0fcbe661216272c07193b3e623f172e1f31310029372e644e1e050309470c2e084f0d0c7b224209363f0d051605780d3e1c0c3c0b555d1668312f2f362e621e3f6a6b6c1d4d6e624458706b227851734f796b4a63392834001e00435f4a1c6e53184e0a3173574460741e4f4d526c527454056c485e5c4328762e
+Signature: aa9fc1d374327f3c
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[5]
+Receiver: vehicle[1]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[5]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 163a375256262e44352e0309412c763b1245320b1b4d140f233f6b022b2035320e0d2d214d554d07330830387a0b563d3264163b7e7b677d071f443c42483b215128751b1f7d694d487b5658073f3e1d1a4f2b060b1c1e103b2525043d3e28380e085a353e4a0d7469496b693d50582e306e07333e6b677840124771584d5011f5f0f39890aaa3838fb487ddc0babb9e87d3b28b8b9f97dda2bdb999afa4fce9db2a46d7bccf8fb6a791a7fde78685baa7ecd3acaaaca6a89fd2a49fc2c89294fafcb69095fcf9cdc8fbd6d49bf1ac8eea88f4d7c9cccb9dc5bfb281aec6f3e3d6c09af4b5dcd9edebdbf6f8b09fd7fcf0a8c5fef2ade6f4c1d78ba59a928e846e682151513b2501147a01125a3b3f1a0b4e3d0c5e0e1e182d2067543a3a3d3704011534740a03372f0e3b7d791a1227376c5f7f2c283132011f0e3a0a0d185164677a181f78644a413a4654076b77404104330a0e401e1d6d766a447a616a74024b4421395c482465556c6926505a2e672f547e79687633
+Signature: 6b8f1b6d8154f59
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[5]
+Receiver: vehicle[1]
+Encryption: ChaCha20
+Plaintext: SAFETY ALERT from vehicle[5]: Detected sudden deceleration ahead, emergency braking initiated, current deceleration rate -8.5 m/s², warning all nearby vehicles to increase following distance, hazard lights activated, location intersection of Main St and Oak Ave, road conditions wet, visibility reduced due to rain, recommend speed reduction to 35 km/h, accident avoidance protocol engaged, emergency services notified, estimated clearance time 15 minutes.
+Ciphertext: 2671341165284b2a753c10264952353618610b3136250d17273016274105314b2175310074356b386c3d06372734031c360431110c0d3a320d25233b3360346a1950577914434c4e175a7b124b0666725c6f5a347762474f6b4a175f5f49150d602260513f652b6f3c7a477e6c26464d7c4e73144c4d7a7e02267b342e657861867240f891868a99d790ac95c9d5abb5d5af98b5acae97dbb48ecb9398c990ddf5e4bdd4f8bfa8b9fcb891b7e9f28895b98eaa9d908beebf8bb8f7bbb5e6b0a29598d3ee90c3cf8b95d0e5dadd87a7f8d6f5d4e2fff8cbdfae8b8fd5d884c187fabeb2ddbfe5eef9aafcc1e6e0bbc999fac7bdf9dfc5e0bbf1ffe3fbf5a1b581145b52154714474b4b162316495728371128093d31221d5b350e57565b531c5d3c723b187825326b6b3c06272a710359311438540a036e2903226d767b77306d5a1d5f711f550b58095c67560906627d4062497d71620e4f6d0b500f1b0e58417d7c32553272626f3c77563268224850714073575b0c7e694d7f2c797429352b9bd793b3d495c7cbdc94a7808ed1a9ba8ce18eb1acba8798a798839494d19cc8bcf5b6d8b1b4b8bff0b483a6acf0c79ab984bc869f82adbec2bfeab7bea5e4bb959ddbfa84c5ced8d7
+Signature: 2b380b32f595b5dd
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[6]
+Receiver: vehicle[1]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[6]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 6c16522a070f0a760a0a26321732770c5944312a1701260333077b0a3804010e7421485a1c7c69350c2c15032c15570a7965151a7237557117275434516c0f1d2b0410634e544d7f775f736351213f2a514e282707502c1c2b1d350c2e1a1c0474243f4d6f632946566d4e526b4e59197b6f041232275574502a57794b69642d8fdc96e0c18387b1b090a2e696a4baa9ccd2b1aa87d3a5d1b285a991bc80c8d5a10623afede6ab8498b582c6b198848decedd08da6e094a48feab497d1eca6a880d0d3e8c4d5ddfff7dff3efcdefadb9a189f7f6c580f991d587a289bde2c7dfacecff8ce4f5fddfd4ffd3c3e681d6cbbba9c6dffee1d4f8d1ef9bad89b6bab814444429001201332b5e24290c253e2d404f3e2d52422c143d18775c291e090b7e2d704c25232705102a1e462f0413107c6d5c5e2064033e11271e3219292c6d1e4b1f604e5140787e1e636f517576770a05302b020c2c117d4e7a4c69455e487867215968756c165a714952704e5b192c2e575f7524443f
+Signature: 9b4130e045ec8e0f
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[7]
+Receiver: vehicle[1]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[7]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 1a472a2c543e3741172b531a4d2d1d130825060e125d3a3f31160d281f1d44310270305d4f4d5402110d602b760a3d152804223e776b494d1536221676754a225d5568651d6570486a7e064b0b3e5535002f1f03020c3020290c432e0903593b0275474b3c5214714b4c3b7a315133062a0e3336377b4948523b215b6c702112f98deee692b2ba86adb1d7ceccbbd0b69db3868e828fb9edb094dfb39b998dead7575ba9bed796b38594f7eeeb87ee92bd8ce7a9a3bc88988dfbc2b5f6f5e397f681abee97e4e0c8eafe86c797f0c7a6f0e8c0d2c0dce5add796d4ab9afb82e0dabd878ab7c4c0e8c9dea6ebbc9ebcd4eac8f1fbfbbdc8c4d3feed8faeafff8762153c2f53233c04367f5101563a5432112e0909571e30283f09017e0e074c34087c084a76121a320d0b6b6e751b790f2d0c6b7a25381f02133668103e306952681a67661d607d4f633f16470b6a1c685b64070f0750302d7f5f0c6e4e5c1b770e36595f3b44512147503c7a2a5131067d4f607b70785803
+Signature: 5477a3d88ada1d37
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[7]
+Receiver: vehicle[1]
+Encryption: ChaCha20
+Plaintext: Route Optimization Data from vehicle[7]: Analyzing traffic patterns on current route, detected congestion 2.5 km ahead on Highway 101, alternative route via State Route 82 available, estimated time savings 12 minutes, fuel consumption optimized route suggested, real-time traffic density: heavy on main route, light on alternative, construction zone ahead with lane restrictions, speed limit reduced to 45 km/h, sharing navigation data with convoy participants.
+Ciphertext: 1b2a3a155640701e10513d363c23022e0a4c783627090d732e2920267a03361c000603244877427464591e1e0a1b2c0e2b655826143c2a1501184f1b1b2107317b6b7c011c4e5f4d510a627a687616754a176c572a1d48767c7e6c7f7f513357464b4864207436616a78021113027d4a2523507747792c5c461b67425d7d4475b0e5fed182cc9f8f88ccb5ada8a382ae93c7f880a98898b6e8ada6aafaa6a7959d80cf93fcb5ebabe4a0c2df8794b78ea9e39abe83f1ec969b8f86869ba196b0a9f1e6cc96808ccfd291fef8f5a287b5858ff1dcf3c9c9e0a4bbe9feffd9b3d7c6cbdcf4bef0abe7ebb690d0d6d6ffcaecb8ddf686efe3c6dcde8fd8cff2d4f13a312a051f404d0b05547d2b2f2f13671150391420140f732c3e213833012a4e490d0a2065393f212a381d1e0f0c76152a770c374a7d201a0f131b4b153b533565716a531d410b47521d3c3f656d587451106d517254437d286160657f15725c4c444b2124692b66243451514302644276364a7b4569655c4648030b49655671ade5a388de89cbce96ddb4aaa5a792e791cdf8c6f3dd87bee7b3e3eba99db286808b88e1fda1e9a7a3f98496898cf683a4f699f291b4b89bc89880858cba8af4f9e4fdd59ac396dec596e4eca8
+Signature: ca79e75114d459be
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[8]
+Receiver: vehicle[1]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[8]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 0e03043504012f70193b25080b37596c1307105402651e1247264b073c1a113a16341e4b1f724c331f1d16393010796a3326346467536d606306643955721f294911467c4d5a6879646e70594d24114a1b0d09591234140d5f3c05012a040c30163169526c6d0c40455c4d68774b7779312c256c27436d65240b67744f777419edc9c0ffc28da2b7a3a1a1dc8aa194c9869190d492b79dc0c6a4999cb89ed8e1c31375b0eee88e828b8481fcad9daaeda6aef1f3b384acb5fbcb849ad5f2b69ce2c585f7c7dbf8f9e4eef0d5d1ea83d9ebcad688d0e4c180a1a69284b9fcd7ebcef9a993e7fbd8d9c7ced0f9fa84f8abf1eae7a1eb85ece9a5ceaba08da8aa8c76511236031c2435386f27131020104d0a0c1f5347261405493947512d00193f1c382653262d0203031b1d7c33013d70362e7d2035003b2f65062e3f1d373c597c5e497f4d5f657e6d2f60554d7058174046115517681400096f4a416d5b4e7c1a7277466b7b491049404a686c4b7579666d762160407c2e
+Signature: 963e02fd7ce5ec0
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[8]
+Receiver: vehicle[1]
+Encryption: ChaCha20
+Plaintext: SAFETY ALERT from vehicle[8]: Detected sudden deceleration ahead, emergency braking initiated, current deceleration rate -8.5 m/s², warning all nearby vehicles to increase following distance, hazard lights activated, location intersection of Main St and Oak Ave, road conditions wet, visibility reduced due to rain, recommend speed reduction to 35 km/h, accident avoidance protocol engaged, emergency services notified, estimated clearance time 15 minutes.
+Ciphertext: 37120029280f100e00253b1d65054d2a487737073e29203836206d3f6a782e2a301605383912301c19242d0c0b637b0066120d270401171d1c355523181d2b0b083363415964176a6243502967511e6e0c7966027f6e6a607a5a614774340a6c714154697242704b49636c4540713e512c584f224441575113360d2c05186700971174c0dca1d1bda28987aee582d3a985b9a483a4a2baf4a59ebd8bb3b48fbce48789ecb598f39d89a1ba8cc5a5f089e99896ab9887c3909aa881a39e9bafc384fbe7d6dde494afe0c9cee1f1d0dfe486e3e8d4f7f4e6f0bf9bf9cdf3f9dee6ebdd86e5f2c2b5dddfe5eaddccecb185aad181cfd7c9cd94e0ef95e3dedcaae00538662d0a331c6f3e0f082d6500502b413e350b392e3074241e214e702e033c2d110f203502694f1e252d1c06267b4561020462020f430612321b6e500a2f0c4b7e6b495272507c7c454c6d25511a611074754b796e23607c1b2617307347206c1f066d7f55394b496e7d094475304c21564f61530053465c6f5a615f542a4a8ab4a78b99b29cefa98d8cbba286d1a6dcf7b287a4b6aab7b688f58cbfac83a9ad9682e0fc93e39b85ada89d80a7bf86e99280b0978e8091d3af9caf95d8fbda84feefc2c9e295fca2
+Signature: d1a9124af04aca5
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[9]
+Receiver: vehicle[1]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[9]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 33122603152d117529240a373431431d0f40470a374c055d191e5e0f4e34450e2b253c7c0e5e72362f0239060f16631b2f61633a527a762f3d3e7131275c4b1d7400644a5c76567c54715f6672220b3b074a5e07271d0f4201041009582a58042b204b647d41324575436257484d6d082d6b7232126a762a7a33727c3d59202dd0d8e2c9d3a19cb293be8ee3b5a78eb89ad6c78aa79e868f989c8c94cab08cd5fe025786ffc4b087bb9baec3929bb09cbae9a6ad86adb7faa5f39192a7dce2a8dfd4a7c1d6f7c6fcd4f1dfeaeeec99a8f78d81d6e5cddacfff9e878ccbd283dff3e88ba5f6d7e6dcf7d1ffc6c582e2daedadb0ffdeacf7a6fbf6bea8ff86feb84b40300012301a300870082c2f260a3c164b480d720f0f4a170152595f2e4d0b2129046537013c06330432430c0727012a692a7e002920603b3e3b376f19686d414f6b495c735b7b5d304f6a727642665c01460b22410f4f57575f491f751a48276355707a577715795f6557534d6f087a2a217f55696761
+Signature: 5d9642c8833bfc27
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[10]
+Receiver: vehicle[1]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[10]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 271f5a085a2e2f616f3f091a234d412e364406553a7f1b091331560c351e1c243f28407f2c3a56415f1e3a3c1370357b157022641b5f6b6e7c173b75187a7520637e5b4d13687e651565495a730d011335580959262a0c17112b0114200503333a217b623d4949012c447b6742376e7506722875131f7b6e795036765560704bd3da83cb90e7a9afdba2868bf6ca8496b6c595c0abaa8f9edcb29988bd9799e7ebf4597edfcbcc83ee8aa3abd6edb8a892e5aaa18c8bbcafa98ff695bbfaf589d6d58f8e98e2fff595e5c9daff91cf81a6a8ce86f7e8dcc29cd59b83a596fbe8e1f9b3a2fcc2dfd5b5c6e9fad3baa1fad4b2eeb7ded3bdeff5d1f3ba81a2af9546411b19592638295939480d395005123249084f2c7f1e17193d045670020726352b722d3c03090f6f023c375673243f0f752a2d5f0d383833113b3f1e323003134b144210687b68126c084a7f0d555a680342412a2f50171c7d525b60425c71762d387c294e5f447c486760422c6e77062569265e58787f32
+Signature: cb77437015dafd9f
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[11]
+Receiver: vehicle[1]
+Encryption: ChaCha20
+Plaintext: Traffic Status Update from vehicle[11]: Current speed 65 km/h, GPS coordinates (38.8951,-77.0364), lane position 2/4, fuel level 78%, engine temperature normal 89°C, brake system status OK, next destination: Highway I-95 North, estimated arrival time 14:25, weather conditions clear, traffic density medium, recommended following distance 50m, adaptive cruise control engaged.
+Ciphertext: 65290609243e37740c0e244f231d786c182d3b29335144531a0c7f3e4a3b060d7d1e1c7e532a4e543c2f176913200c393b191f1812713434752a1247675f6f092148074c6d7866707654640f735d38511b3134252f04534d181628265f20191a78172763435951144f75563242675737281b15091a312434706d1f442a456a6291ecdfcaeef7b1bab893abdef69abdd498aca8bca284d0c4d58fb0bac2b283cea9c2057fa1dbd4968dbb8efed6bd81eabc8c97dd85a5e3f5a0b2dfa7c4dfefa094e3d38fe6f2e7e0f6d4e48fffc1f6c388c1f3fafec6839895e8b2b1dab3e1c1a3cfefa382d2c7c0d6f7c4afd3ea98b8fadbd3cbd7fde2b5fcecda88fe87b5bc047747182736203c3a08655839003c501c2035332551414d10002d640f271d0f771d2e2c4213111a0c33116256231d7d211c1751562367623a2c120d61172a2a517d48436e78637d715d251f7f5d6c18466a7f3d23010f4d15407b691f674658341b647d575e47511f794a35427c5735284c545a577627253b
+Signature: a3b674397d1bcad6
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[11]
+Receiver: vehicle[1]
+Encryption: ChaCha20
+Plaintext: SAFETY ALERT from vehicle[11]: Detected sudden deceleration ahead, emergency braking initiated, current deceleration rate -8.5 m/s², warning all nearby vehicles to increase following distance, hazard lights activated, location intersection of Main St and Oak Ave, road conditions wet, visibility reduced due to rain, recommend speed reduction to 35 km/h, accident avoidance protocol engaged, emergency services notified, estimated clearance time 15 minutes.
+Ciphertext: 1873350a116c15770f013d6c581c110c3b792e1e4d0e331e2e08426f366a67030e66360c1170713610112b7c3d346327131a1d3760351126021c3d5e2a1802066f5e136a68100711666a4c01185851427d70765c454e7e5b7f7a526a4e742b274827615d403b217647416c3d747f716242505775657551664e133e062505074ae4c1317de995c2d7b1aa86d69fda828fbaf9b69ec495b28beba596b682b3aba298b2a780c5fcfbf59181aeebbdfaa5ac9a9597aceca997f28f9aa08aaa9e8482a7d2dbeeff948792a3e8c69fd0ced083f7faecd293c6e4d7efbf93f2c4f3e6f3c2bdfd8fccbba1b3d1d7eabbecf3eced96d6debb88e6d9fc8be0e79eeadec3870453186f0443501a633600591c5a000c383d310f4c083e016b24162a4770312e187b3106097c616f43162a7c2d392627561d0d3e25331f7219123a1067501502681d5e62601b115670744a1d5c1a5146726c7b4f0c487e127f7c132d1e306c6a043a3f0f4436363f4741612c387b756c5f5d597526621062595c6751685f4b07aedc94aea2d0d19ae3a182dd8a9d868db5a0f888c095a69ba8b680fe85bfb3ae8dfbb68bc9b5f0e5978da2f9acbfa7e395959dbaf7a69eb18ed3a797a695c7d6bed2dee6eb808193f0aa
+Signature: 2f28cd8af1857365
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[11]
+Receiver: vehicle[1]
+Encryption: ChaCha20
+Plaintext: Route Optimization Data from vehicle[11]: Analyzing traffic patterns on current route, detected congestion 2.5 km ahead on Highway 101, alternative route via State Route 82 available, estimated time savings 12 minutes, fuel consumption optimized route suggested, real-time traffic density: heavy on main route, light on alternative, construction zone ahead with lane restrictions, speed limit reduced to 45 km/h, sharing navigation data with convoy participants.
+Ciphertext: 2103232f0d661c253956343a145c3205380a01632d55216e2b3d3f430d1e1d1b3a2f1a1e13574228573f381d2f711f361e2a6627187301080b06132e7d292c27565e786808697d356e0a6b614b13720c654b1413694d206a687b750d194d5c137063585c6d55475c42311901206806675a24202f4920440e42411006246f70649295f6ead8f7fff5acd3adb69cd3a798be92c487beceb5baa8efa6c7ccc8ab87b2b893db9a89868188bfc1c1eefc90ad9ea8e0e580e4ccce889c84e7e0a9acb6d78ce2f2c5e3b3e6ec89f0fdc98ea69da5848c8ee294f4ebfea3b08898cdd493f0e3d8c8fdcbc3c1c4b0d793e1add2e5daedbba2c8e1d2c1d8dbd5eebefdfff4161f223e0c6a7327285e357e1a542b09771053462a47292d6d2b35405e010c0a696c1e1e29100a550271591e2f74086c052b7473092d40020408187a2d2736735240627e5a68726164097c3f0e1e6942645013126f156961632f6a01034d18527b69575f28515a41457f55526038067e5277353545225447424143626d7b68769688f6b781abbaa1edcdbcb79bdea388f790ce87f894e0a5a0e0b8828d9b9092a1a5989ce888928384f89887a7f288ec93a5f5e6ccf6899a85cf93e1e3beb7aa93dcf7e9dceff0fcfd9ef7e7ddd3
+Signature: 39d38427e77e3ac8
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: rsu[0]
+Encryption: AES
+Plaintext: Traffic Signal Request from vehicle[1]: Approaching intersection ID_1, current speed 45 km/h, distance to stop line 150m, requesting green light priority, vehicle classification: passenger car, emergency status: none, passenger count: 2, estimated arrival time at intersection: 12 seconds, current traffic signal phase: red (8s remaining), intersection queue length: 5 vehicles, weather impact assessment: clear conditions, road surface conditions: dry asphalt, tire grip excellent.
+Ciphertext: 3a2d1c463d24035e24046f5b444d0f5e7b5e78d5b889f088959295e5c3d4f7d5edd3f89b8a307a7e163d18272a206c4457614a70427344abb5aebd86a1b890b28ed6f9bfaaa180ddc2df3a100b154f3f2e0a28142b09250e4c50176dd9d1bb95bd8bbcee98c8a0eaf8addbe1eaf16f00172108305a6840632b3d6a4064645a6f9ab693c7fbaa929b9283a8d9ccc6c7f8bedfff59240f391a1e5158335059765f625a3d23578cb3adbeab81b6a4b5e6c3d0b58da0caeec32b293a3d1775321e2e023f580d7e7f475b594eb1d596958eb8ab9cf7d0e5d2fecb8b9dc8e406023a12291a2f2018427570633708272921aa9f8aa680f19fb894aee6efeacce3f0d3bc1a3610457b2c145e1e037c5057524a6f6a4662def1dde1dcc78e9da6dadffbcfa29ffeb5c91f2530236d1c27242769455d2f5e394c7351a2e7adb084a6b4c5fcdcfad9c0b3b5d39ec5c825140c0f0622394661506253644b554e5d668198b092ee8ea8e58ec8a0f2f2e3cfe1edbb6f595e390878023e1c6b7431385270704b748badddc9b6bd819d83cde9c6d6c4dcfff3cae344715d3302021c0a65565e7158674b742f559eecfea5a289b1e5b2faded8eeceb58bfedf2023342c0c3a3f0c660e7b4f193b6c534e5f4ca481c9c19ba5ac8aed97f9d4e08ec2c5dbe0191d3a123a51
+Signature: 53eca2418d411cae
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: rsu[0]
+Encryption: AES
+Plaintext: Sensor Data Upload from vehicle[1]: Environmental sensors report air quality index 45 (good), ambient temperature 22°C, humidity 65%, atmospheric pressure 1013.25 hPa, noise level measurements: 58 dB average, road surface temperature 25°C, vehicle diagnostics: engine RPM 2100, transmission gear 4th, fuel consumption 7.2L/100km, tire pressure front 2.3bar/rear 2.1bar, battery voltage 12.8V, GPS signal strength excellent, accelerometer data: X:0.2g Y:-0.1g Z:1.0g, gyroscope readings stable.
+Ciphertext: 052d5102383d640c0f03553945437b6f475c6f87b59099f88882ac80e3cfc2eb87f5e5b1f20112013c383a14153d43416a381c64496c7b8aade796ac90acb5a4b6e996c3b7fef1e9c2de0020701a392403002f15321f1c7f51486000ecc3869d9481fabf838fd0cde3e7f1cbd1e7021223781d73a5ef17143e6f516449676e64afe889c4f2e3e4a99a9adbeae0dbf2f2cfdbef11351a072b0b15214931131603181a6a315fbf85c4eeb9bb9083b697cce3ee8aed87f2f1192d32162c0d26292465325f042f2f604a0e5682bca292b0a5cad8fdcee6db94ebcbd5e2c82306470413056f34054e505d7c72340b05d147a3eaf8d9a48fb6b7d4fba7c0e0c1e4e9ff253c56122475642d00105d77751345506b187dd0f7cfd8f88a95a587f3cecec3c5c1b0ff970801093c77600d187f1746737d032144707a8babaa94bd89aca9f0a1a6cdfdb8beb4b8c5da5879241a252546087d44744c416a5b07625baf8d93d0c4c6acb396dd8bdaebf6e69982bd4602272a0361053e204c7b755d29566c6b64b7afdad1e6fdeaf0b8db94dec0e0b7f3cfdfa1002b5f072c0c022a0e744b07554e4b3a7d5b8a8a9ce2f7b59a93b6dbc5f4f782e4d3fae6583a2610285a631f6a26264d5637563e251e19c5bef0a9edf1c8c8e88da7d8cdead1d4e7c63006470213097b38194857087d63755b5c76d9
+Signature: e76d92e139c02c0e
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: rsu[1]
+Encryption: AES
+Plaintext: Traffic Signal Request from vehicle[1]: Approaching intersection ID_101, current speed 45 km/h, distance to stop line 150m, requesting green light priority, vehicle classification: passenger car, emergency status: none, passenger count: 2, estimated arrival time at intersection: 12 seconds, current traffic signal phase: red (8s remaining), intersection queue length: 5 vehicles, weather impact assessment: clear conditions, road surface conditions: dry asphalt, tire grip excellent.
+Ciphertext: 3e220d4733191b772f2268117d72060a7f5169d4b6b4e8a19eb492affaebfe81e9dce99a840d62571d1b1f6d131f6510536e5b714c4e5c82be88bacc988799e68ad9e8bea48089bb9ce83a4d2e3b086c7a132c1460642833193b5422e3a6fa88ae99bff594fefbd2bcdfc0ffcfca29485a2c157f004059123c56334f5e4b473d8fa398c8bb97d8b08eaeea91bcf2cfbff2d4bc4137292735052f06232c7873006353602415b3b496af9886f9959de78cd3efd2eb85d0c9143f1e3148091c566b4b620041705d5d655b6ea1dca5fe95ecbb94a982bfa0e6e8c2fe93ef3c2f255b2f1e2b6407307b5869455b651c0cea989fb388f888819cc2e89bfe9ddec7c0a90670184838155836086b6611687b542b7f4368d8aaaef2e7dde9dffce9edf986eec3a0e1d6252a0539051b3f080c671e5c695f7156494f89ad97ffdf848f85ed90b0de84f19090afcfab3d5a313f0f76330e3b5829206169587e4d3ca9ada2c1a59eecf080f5edd2bcc7cab1dbca2e025a755c6700080144605e6c430c5953299eb889d3f59995a79da8fbdffdedd5bde9d3f1542b3472670f371a6e7e2e7507645465355cbfb684f0cb9df09d9aa68bcff2dab0c6c5880423153b4618071966592a0c05674918764f7ba7deb0aacab8ae89ae94a5e7faeedcbbdab72f2b3a442f1e382f
+Signature: 31ab46a1ef06f84e
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: rsu[1]
+Encryption: AES
+Plaintext: Sensor Data Upload from vehicle[1]: Environmental sensors report air quality index 45 (good), ambient temperature 22°C, humidity 65%, atmospheric pressure 1013.25 hPa, noise level measurements: 58 dB average, road surface temperature 25°C, vehicle diagnostics: engine RPM 2100, transmission gear 4th, fuel consumption 7.2L/100km, tire pressure front 2.3bar/rear 2.1bar, battery voltage 12.8V, GPS signal strength excellent, accelerometer data: X:0.2g Y:-0.1g Z:1.0g, gyroscope readings stable.
+Ciphertext: 1216012a1e3e4846181e630379193e7350673faf9393b5b29f9f9abadf9587f790ceb599d4023e4b2b250c2e2967065d7d034c4c6f6f57c0bafaa096acf6f0b8a1d2c6eb91fddda3d5c3361a4c407c38143b7f3d141c30354655563ad099c38183baaa97a58cfc87f4fac7f1edbd470e34434d5b83ec3b5e2972675e753d2b78b8d3d9ecd4e0c8e38d87edd0dc81b7eed8e0bf3913192b611c0817730d49531f0f213a1979bca98ef9a48daabfecd2d0f4d5dac5a1f1dd533a2f2016317c6c3872090f2c092c4c00194bb4869ec8f5b9dde3ade6c0d8b8a1dcc8d4f21f5c0218043e3f1c234d7c176b6f0231398b02bffdc3898ca9b59b9eecbaf6dafdbeace33207063a02764867170d6b4d4949004c7c232df8d1ccf4b29d8893bdcf948bdfd2fae0d7b10b2d432b6a56372425525a64465309627356c1bcb7a287b5f6ececb69d9dd59ebd98f2d2c76e431840603951332d6c524f6d204c1a546193d7d6ccd3fdfc9bb0dea790fcebd0a3bee7031e30115349233d0c066c686b136a362e78a0948af9c0fec6baafc6a2e4fcbaf2efd8e4f1280d5c2b661b1f1c344811424959706a557d89a6d6f5ea83a0afec9ed9e3ccd2ccf5f9ca122d3b261266395a76311d1d7e1155126f0904f384ccf3a8eddff3b8a581dbe1a0c6c9d1fc0c5c021e04322b103f4b7b426a7e4361602c9c
+Signature: e5c567f53b68d91a
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: rsu[2]
+Encryption: AES
+Plaintext: Traffic Signal Request from vehicle[1]: Approaching intersection ID_201, current speed 45 km/h, distance to stop line 150m, requesting green light priority, vehicle classification: passenger car, emergency status: none, passenger count: 2, estimated arrival time at intersection: 12 seconds, current traffic signal phase: red (8s remaining), intersection queue length: 5 vehicles, weather impact assessment: clear conditions, road surface conditions: dry asphalt, tire grip excellent.
+Ciphertext: 1d02020b1d0523431135716556720f555c71669898a8d095a0a38bdbd1ebf7decafce6d6aa115a63230c0619381f6c4f704e543d625264b6809fa3b8b38790b9a9f9e7f2899cb18fa2ff2339053b0133593323584e781007272c4d56c8a6f3d78db9b0b9bae2c3e682c8d98be4ca2017790c1a332e5c612602412a3b754b4e62ac839784958be084b0b9f3e597f2c6e0d1f4b30d19351f013b381f5707787a5f40736f683baf8ca2918f9f8dbe9deed3f0cfdda7abccf1200109283c221c5f3468420f0d5e4165516579b8a88efe9cb398b4a6ce91bcdedcfce98a9b172f2c040c3e2428292c436c57524211370ce3c7bc9387b4a69da4f6d68ce7e9f5c7c9f62550170416096002367c7f65437b5d745c63679484b2cad3e3fec688c2edf0d9cde3afadf83912310712024b230c6e417f49503d785577bd9380e6abaf8f8cb2b390d1c8df8ca89bf1bc242e1a3f0629102e3414073c595d6669544882adab9e86bee3bcaee9d5e682d0d3c5f0ca275d7955532b2e1439705e49753727595a76bd98869fdb85ad93a3bfe2abd6eddce2caf3fe1805284a533120031a552e7c5847746a7972a38eb0cedc8484b69aafd4ecd2d5fce8d9b0301d022232330710397a0a034949552042716cbeaa9baac3e78da9a1d88bfbc2dae2acc3c3042b331b0c3e3763
+Signature: f4ecff1b2a4141f4
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: rsu[2]
+Encryption: AES
+Plaintext: Sensor Data Upload from vehicle[1]: Environmental sensors report air quality index 45 (good), ambient temperature 22°C, humidity 65%, atmospheric pressure 1013.25 hPa, noise level measurements: 58 dB average, road surface temperature 25°C, vehicle diagnostics: engine RPM 2100, transmission gear 4th, fuel consumption 7.2L/100km, tire pressure front 2.3bar/rear 2.1bar, battery voltage 12.8V, GPS signal strength excellent, accelerometer data: X:0.2g Y:-0.1g Z:1.0g, gyroscope readings stable.
+Ciphertext: 290b245f32014834321f4839584857546b7a1adabfacb5c0b59eb180fec4eed0abd390ecf83d3e390124271408366f7a461e6939435057b290fb8bac8da7999f9acfe39ebdc2ddd1ffc21d206d11151f2f265a48382330476c547d00f1c8aaa6b8a78fe289b3fcf5defbeccbccec2e290f5e682eafd33b2c03734c64546c425f83cefc99f8dfc891a786c6eafdd0dec9e3fd9a4c3f262b1336093c492c183a38343c1f6c5583a9fcd3a5a6909ebdbbf7cfc8ffb08dcedd21102e0b2c102d051f49142a5925134c72334a9fbcbf999c9ee6fe8893ece7b8d3f6c9ffc83e0d6b3f3f231a690f727c65416e290b18da6b98c6deacf9858a9becc6bbdde0dcefc5c4091a234f2e4948153d0c40776818696b473e088dfdf3f4c0b789b887eec5e2f8e9e7c5a29d342d31016b7d0d05743b7d5f5b767c4e4c56b396b689bd94a785cb8d80b8a0b2829880f8c645793911091e6a2e08197e706d52661b7f5bb286bfebe8e0d9ee9ce1a7e2d6eafb999fb66a390b0c763c0f020c74466940294b67475f9b89af8cecc1c6c885c789deddeb9bc8e3f9d45d21632b14311e370e69402b6e626d4f2051b6a6a4dfeba89a8ebdf7fed8d1f7b9d9c6ca60073a0d28476833510a00380b3d6a121d2305d8beeda2c1cae4ee9dd0ade4e1d2ecc8fac62d0d6b393f2f0e6513747b30407f685b417df5
+Signature: f6fc7c992851c276
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: rsu[3]
+Encryption: AES
+Plaintext: Traffic Signal Request from vehicle[1]: Approaching intersection ID_301, current speed 45 km/h, distance to stop line 150m, requesting green light priority, vehicle classification: passenger car, emergency status: none, passenger count: 2, estimated arrival time at intersection: 12 seconds, current traffic signal phase: red (8s remaining), intersection queue length: 5 vehicles, weather impact assessment: clear conditions, road surface conditions: dry asphalt, tire grip excellent.
+Ciphertext: 3927584a4e7b065c1360584a4c61180878543cd9cbd6f58aa2f6a2f4cbf8e083eed9bc97f96f7f7c21592f36220c7b12546b0e7c312c41a982ca8a97a99487e48ddcbdb3dbe29490a0aa0a161f28166e7d1679191d06351825796479d2b5e48aa99ceaf8e99ce6f9809df0a4fed9374a5d2940727d224439001403146f58593f88a6cdc5c6f5c59bb2ecdaca8de1d1bdf5d1e94c4a4b3a1e396d36781d6b6d026456352968d1a9bd93dab6a2a48ef98ed4ea87e6f8b2d43f035c0113380f48694c67554c0d3f404e672c918794ed8beebc91fc8fc2c2fbc3febca3b40d3c3b59281b7e697a52667355076b3e2d1ff49a98b6ddf5f5e381e9d4d9cec6efd4deab01754d454577451d3429564a59684a2978463dd5d7ccefcce1abefa7d8fee784e9c6f5ecab47372e05472b64391f791c5b6c0a7c2b2b52a291d5cf84b59c9bef97b58b898cf28d84f3e90d01002c1174340b6e5554427c42643c7d6798bebcc3a29bb9fdfd97f0f98085faeaead930005d70096a7d6a1c6f5c1c5c183d4a4d2b99bddcde88fb888ca1eacb84ccfecbbfeed6a45956566f4c33752a354f3d6b056351303821ddabafcc89adabac89b889c8f78fbdbba7952f1f570b1d291407645e2f59081a2b055d7339978581b9d4baa98cfb99d885e7c5e0f9eaec1e382446281b6d22
+Signature: 2ced87b4f240395b
+----------------------------------------
+Timestamp: 1749629420
+Sender: vehicle[1]
+Receiver: rsu[3]
+Encryption: AES
+Plaintext: Sensor Data Upload from vehicle[1]: Environmental sensors report air quality index 45 (good), ambient temperature 22°C, humidity 65%, atmospheric pressure 1013.25 hPa, noise level measurements: 58 dB average, road surface temperature 25°C, vehicle diagnostics: engine RPM 2100, transmission gear 4th, fuel consumption 7.2L/100km, tire pressure front 2.3bar/rear 2.1bar, battery voltage 12.8V, GPS signal strength excellent, accelerometer data: X:0.2g Y:-0.1g Z:1.0g, gyroscope readings stable.
+Ciphertext: 252c0e0c052944010b33500e47455d51675d30898884b9f58cb2a9b7e1c9e4d5a7f4babfcf15320c38083f23173b657f4a39436a74785b87a9d7939b92aa939a96e8c9cd8aead1e4c6ee0517721c1f1a2301701b0f0b3c7255786537eec5a0a3b480a5b1be9bf0c0e7d7f4fcd3e1242c0379427d98fb37193a5f54534b61485a8fe9d6cacff7c4a49eaadedde2ddd4ccefdab01f080e27260f25247e3315303d381b353f62aba5c9ea89bea781b0b1f2c3efd5e3bae6d1142902131b0f200f1a4533000a123b40470a66878ba094969bead9a2c0dbcfb4e6cfe5e7ff2100613a3304303a385a70507842313c07d7619dcaf986aab2a297d9ff97c5d7c3e2cfc1053d091c19614420042058407715636e4b1922decadbf8f58ea5a0b0f1c8e8fde5c0eff1aa1c21043847653a1a793178537c5c2f79645a86af9a918a8baa8fce81a792f385aa94b5c1ea5d4e261c031b6609224a495861675f37676cad8bb5eee4c7f3bdabc9abd7efc6e3ae80bb603c072b5c6f382a00417f45581e546a4d5a97ae85dfdbe9cafdbceb91e9c2e691cdefdefe0e164b272108322f39764d216b6e4a6573669eaa91e6c7b0ad91b0fdfbd4f6ddeaeeeec6553e16151f58653954062712580a421e281a29c089f2afcbcfe8c9b7839accede7d5e4e2f13200613c33082436245c77057953706c5e70ff
+Signature: cdf5e54313585bac
+----------------------------------------

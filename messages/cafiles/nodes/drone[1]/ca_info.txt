@@ -1,0 +1,4 @@
+Certificate Subject: CN = drone[1], O = Veins V2X Network, C = DE, L = Erlangen
+Certificate Issuer: CN = "CN=Veins CA,O=Veins Project,C=US"
+Certificate Serial Number: 01
+Issued Date: 1749547716

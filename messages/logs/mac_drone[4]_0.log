@@ -1,0 +1,26 @@
+=== Veins V2X MAC Layer Log ===
+Node: drone[4]
+Start Time: 0.000000
+QCA Security: Disabled
+CA System: Enabled
+================================
+[0.000000] [INFO] [INIT] Node initialized - MAC:151 QCA:OFF CA:ON
+[0.254812] [INFO] [MESSAGE] UPPER_MSG from Application - Sending message: , Channel: 178, Priority: 7, MAC: 151
+[0.254812] [INFO] [SECURITY] CA_SIGN - SUCCESS - Adding CA security header to message: 
+[0.754812] [INFO] [MESSAGE] UPPER_MSG from Application - Sending message: , Channel: 178, Priority: 7, MAC: 151
+[0.754812] [INFO] [SECURITY] CA_SIGN - SUCCESS - Adding CA security header to message: 
+
+=== Final Statistics ===
+Simulation Duration: 0.5 seconds
+Total Messages Processed: 2
+Total Security Checks: 2
+QCA Checks: 0
+CA Checks: 2
+QCA Verification Success: 0
+QCA Verification Failed: 0
+CA Verification Success: 0
+CA Verification Failed: 0
+CA Certificate Requests: 0
+CA Certificates Issued: 1
+========================
+=== Log End at 0.754926 ===

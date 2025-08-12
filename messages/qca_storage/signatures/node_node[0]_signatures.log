@@ -1,0 +1,21 @@
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 19:36:03
+Node ID: node[0]
+Signed Data (first 50 bytes): -178-7-3259
+Signature: QCA-SIG-node[0]-8a6a811c52dca779
+-----END SIGNATURE RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 20:34:39
+Node ID: node[0]
+Signed Data (first 50 bytes): -178-7-3259
+Signature: QCA-SIG-node[0]-8a6a811c52dca779
+-----END SIGNATURE RECORD-----
+
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 20:37:01
+Node ID: node[0]
+Signed Data (first 50 bytes): -178-7-5038
+Signature: QCA-SIG-node[0]-eb9e11f851cdc8b1
+-----END SIGNATURE RECORD-----
+

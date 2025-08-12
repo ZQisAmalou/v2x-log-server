@@ -1,0 +1,29 @@
+=== Veins V2X MAC Layer Log ===
+Node: rsu[2]
+Start Time: 0.000000
+QCA Security: Disabled
+CA System: Enabled
+================================
+[0.000000] [INFO] [INIT] Node initialized - MAC:121 QCA:OFF CA:ON
+[0.656441] [INFO] [MESSAGE] BROADCAST_RX from 56 - Received broadcast message from 56
+[0.656441] [INFO] [MESSAGE] SECURITY_CHECK from 56 - Security check - Node QCA:OFF CA:ON, Message QCA:YES CA:YES
+[0.656441] [INFO] [SECURITY] QCA_VERIFY - SUCCESS - QCA verification SKIPPED - Node disabled but message has QCA header from 56
+[0.656441] [INFO] [SECURITY] CA_VERIFY - SUCCESS - CA verification SUCCESS for message from 56
+[0.656441] [INFO] [MESSAGE] BROADCAST_FORWARD from 56 - Security verification passed, forwarding to application
+[0.673660] [INFO] [MESSAGE] UPPER_MSG from Application - Sending message: , Channel: 178, Priority: 7, MAC: 121
+[0.673660] [INFO] [SECURITY] CA_SIGN - SUCCESS - Adding CA security header to message: 
+
+=== Final Statistics ===
+Simulation Duration: 0 seconds
+Total Messages Processed: 2
+Total Security Checks: 2
+QCA Checks: 1
+CA Checks: 2
+QCA Verification Success: 0
+QCA Verification Failed: 0
+CA Verification Success: 1
+CA Verification Failed: 0
+CA Certificate Requests: 0
+CA Certificates Issued: 1
+========================
+=== Log End at 0.754926 ===

@@ -6,10 +6,10 @@ const chokidar = require('chokidar');
 
 // 日志文件路径配置
 const LOG_PATHS = {
-  veins: process.env.VEINS_LOG_PATH || path.join(__dirname, '../messages/logs'),
-  ca: process.env.CA_LOG_PATH || path.join(__dirname, '../messages/cafiles/nodes'),  // 修改为正确的相对路径
-  qca: process.env.QCA_LOG_PATH || path.join(__dirname, '../messages/qca_storage'),
-  config: process.env.CONFIG_PATH || path.join(__dirname, '../../veins/examples/veins')
+  veins: process.env.VEINS_LOG_PATH || path.join(__dirname, './messages/logs'),
+  ca: process.env.CA_LOG_PATH || path.join(__dirname, './messages/cafiles/nodes'),
+  qca: process.env.QCA_LOG_PATH || path.join(__dirname, './messages/qca_storage'),
+  config: process.env.CONFIG_PATH || path.join(__dirname, './messages/config')
 };
 
 // 支持的文件扩展名

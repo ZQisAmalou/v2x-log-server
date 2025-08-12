@@ -1,0 +1,14 @@
+-----NEW SIGNATURE RECORD-----
+Timestamp: 2025-06-10 20:35:16
+Node ID: port[0]
+Signed Data (first 50 bytes): -178-7-3756
+Signature: QCA-SIG-port[0]-b2ca1ddeaea1bef7
+-----END SIGNATURE RECORD-----
+
+-----VERIFICATION RECORD-----
+Timestamp: 2025-06-10 20:35:19
+Node ID: port[0]
+Signature: QCA-SIG-port[0]-b2ca1ddeaea1bef7
+Verification Result: VALID
+-----END VERIFICATION RECORD-----
+
