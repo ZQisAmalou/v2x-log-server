@@ -1147,7 +1147,7 @@ function convertNodeIdForFileName(nodeId) {
  */
 async function getNodeCommunications(nodeId) {
   try {
-    const communicationsPath = path.join(__dirname, '../messages/communications');
+    const communicationsPath = path.join(__dirname, './messages/communications');
     const nodeType = extractNodeType(nodeId);
     const nodeTypeMap = {
       'vehicle': 'vehicles',
@@ -1296,7 +1296,7 @@ function parseMessagesContent(content) {
 }
 async function getNodeQCAInfo(nodeId) {
   try {
-    const qcaStoragePath = path.join(__dirname, '../messages/qca_storage');
+    const qcaStoragePath = path.join(__dirname, './messages/qca_storage');
     
     const qcaInfo = {
       hasQuantumKey: false,
